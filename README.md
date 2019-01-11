@@ -74,3 +74,7 @@ Each record you add has the option select or enter 4 fields.  Add these two reco
 `CNAME` `go` `go.directrtx.com` `Automatic TTL`
 
 `CNAME` `traffic` `go.directrtx.com` `Automatic TTL`
+
+After these are added, make sure there's an orange cloud next to each of them.
+
+You're done setting up the required DNS records.  Wasn't that difficult was it?
