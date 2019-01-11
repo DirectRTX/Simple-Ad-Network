@@ -21,4 +21,4 @@ Please make sure you have the following things before you get started:
 
 1.  An account at DirectRTX:  https://directrtx.com
 2.  An account at CloudFlare:  https://www.cloudflare.com
-3.  A web hosting account.  We recommend <a href="https://www.stablehost.com">StableHost</a>.
+3.  A web hosting account.  We recommend <a href="https://www.stablehost.com">StableHost</a> but you can use any hosting company.
