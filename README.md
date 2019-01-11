@@ -250,9 +250,9 @@ MyMediAds is designed specifically for attracting publishers and advertisers.  S
 
 And finally, use forums to promote your new network - they are great places to find publishers:
 
+- <b>DigitalPoint - https://forums.digitalpoint.com/forums/pay-per-click-advertising.20/
 -  
--  
--  
+-  </b>
 
 Please note that we didn't review the rules of each forum listed above, but as long as you're just telling people about your new network and not being too spammy, most forums owners are pretty cool about it.
 
