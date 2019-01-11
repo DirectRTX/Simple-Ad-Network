@@ -104,3 +104,9 @@ Here's a description of what each Page Rule is doing:
 <b>Page Rule #1 -</b> Passes along your publisher's Fallback URL whenever they've entered one.  
 <b>Page Rule #2 -</b> Automatically enters your Fallback URL whenever a publisher doesn't set their own.  
 <b>Page Rule #3 -</b> Catches all traffic that doesn't include a publisher's ID number and redirects it.
+
+You will need to replace these three things in each of the rules above (while you're adding them):
+
+`example.com` - Replace this with your own domain name.  Leave the `go.` and `traffic.` parts alone.
+`[DIRECTRTX-ID]` - Replace this with your 6-digit ID number that you got earlier from DirectRTX's dashboard.
+`[FALLBACK-URL]` - Replace this with YOUR fallback URL - where you want unsold traffic to go to.
