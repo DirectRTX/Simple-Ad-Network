@@ -21,10 +21,12 @@ Oh, and at the end of this, we're even going to teach you how to promote the net
 ## What You Need to Get Started
 Please make sure you have the following things before you get started:
 
-1.  An account at <a href="https://directrtx.com">DirectRTX</a>.  Instantly approved.
-2.  A free account at <a href="https://www.cloudflare.com">CloudFlare</a>.  No upgrades needed.
-3.  A domain name.  We recommend using <a href="https://www.namesilo.com">NameSilo</a>.
-4.  A web hosting account.  We recommend <a href="https://www.stablehost.com">StableHost</a>.
+1.  A domain name.  We recommend using <a href="https://www.namesilo.com">NameSilo</a>.
+2.  A web hosting account.  We recommend <a href="https://www.stablehost.com">StableHost</a>.
+3.  A free account at <a href="https://www.cloudflare.com">CloudFlare</a>.  No upgrades needed.
+4.  An account at <a href="https://directrtx.com">DirectRTX</a>.  Instantly approved.
 5.  A <a href="https://www.paypal.com/">PayPal</a> account.  Used for payments from DirectRTX.
 
 You can use any web hosting company you want, but make sure this script is the only thing installed in the account.  It was developed using StableHost so we know it works perfectly there.  Just make sure that whatever hosting company you use has PHP and MySQL (or MariaDB) available - also, it needs to run on Apache if possible.
+
+So, let's get started setting up everything below.  We'll use our suggestions as examples, but feel free to use whatever domain registrar and hosting company that you want.
