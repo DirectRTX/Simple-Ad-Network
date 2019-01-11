@@ -298,4 +298,4 @@ We did this so that you can dedicate all of your time to promoting your new ad n
 
 Good luck running and promoting your new network - we wish you the best of luck!
 
-- The DirectRTX Team
+ - The DirectRTX Team
