@@ -118,3 +118,9 @@ But you're done setting up CloudFlare at this point!  Woohoo!
 <b>Using A Default Fallback URL</b>
 
 First and foremost, your Fallback URL should be URL Encoded.  So, after you choose what you want your Fallback URL to be, go to <a href="https://www.urlencoder.org/">URL Encoder</a> and encode it.  The encoded version is what needs to be used in your Page Rules.
+
+For your Fallback URL, you have 4 options to choose from (from simplest to most complicate):
+
+1.  Set it as your ad network's homepage.  Any unsold traffic will be sent there and advertise your network.  You won't earn money directly from this traffic, but some people may signup and earn money for you.
+
+2.  
