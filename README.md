@@ -14,3 +14,4 @@ Your ad network will be able to handle an unlimited amount of publishers.  All o
 
 First the traffic will be sent to DirectRTX.  The automatic postback system at DirectRTX will automatically ping your system whenever traffic is purchased and your system will automatically credit it to the correct publisher's account.  So, you'll make money by paying a percent of that money to publishers and keeping a percent for yourself.
 
+Additionally, you'll have options to monetize the traffic that DirectRTX doesn't purchase - which is where you can make a ton of money.  We'll get more into those details later on in the documentation.
