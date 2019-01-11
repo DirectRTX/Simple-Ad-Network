@@ -127,6 +127,6 @@ For your Fallback URL, you have 4 options to choose from (from simplest to most 
 
 3.  <b>Send the traffic to <a href="https://www.adspyglass.com/">AdSpyGlass</a>.</b>  This is an ad mediation network that will automatically forward your traffic to the network its algorithm detects will pay the most for that specific visitor.  It will also send unsold traffic from one network to the next using a waterfall system (described below).
 
-4.  <b>Setup your own waterfall system.</b>  
+4.  <b>Setup your own waterfall system.</b>  You can signup for multiple networks that provide both direct links and fallback URLs.  For example, you can set Network #1's fallback URL as the direct link from Network #2 and set the fallback URL for Network #2 as the fallback URL from Network #3 and so on.
 
 How you choose to handle unsold traffic is completely up to you.  You may be able to find more unique ways to monetize it and that's totally your decision.  These are just the most popular methods people use.
