@@ -151,9 +151,11 @@ Congrats!  Your database has been setup and you'll never have to mess with it ag
 
 Now it's time to get your website's files upload.  You can download this Github repository by <a href="https://github.com/DirectRTX/Simple-Traffic-Network/archive/master.zip">clicking here</a>.
 
-This will download the entire repository, but you just need to upload all of the files from the `UPLOAD` directory to your `public_html` folder.  Please note, you don't need to upload the `UPLOAD` directory itself, just upload all of the files that are inside of it.
+This will download the entire repository, but you just need to upload all of the files from the `UPLOAD` directory to your `public_html` folder.  Please note, you don't need to upload the `UPLOAD` directory itself, just upload all of the files that are inside of it.  I suggest using FileZilla to upload the files quickly.
 
 ## Changing Configuration Settings
+
+Now go to `http://example.com/install.php` to confirm that everything is properly installed.  If everything is working, you'll see a message letting you know.  If the files aren't in the proper place or the script can't connect to your database, you'll get an error message.
 
 ## Automation With Cron Jobs
 
