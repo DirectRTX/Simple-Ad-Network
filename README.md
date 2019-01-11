@@ -204,7 +204,7 @@ You can access the Admin Dashboard here:
 
 `https://example.com/admin.php?secretkey=XXXXXXXXXX`
 
-Replace `example.com` with your domain and `XXXXXXXXXX` with whatever you set the variable `adminkey` to in your `config.php` file.  This secret key is used to prevent anyone from access your admin dashboard.  However, even if someone gained access to it, there's very little damage they could actually to.  The admin area was main designed for monitoring everything.
+Replace `example.com` with your domain and `XXXXXXXXXX` with whatever you set the variable `adminkey` to in your `config.php` file.  This secret key is used to prevent anyone from access your admin dashboard.  However, even if someone gained access to it, there's very little damage they could actually to.  The admin area was mainly designed for monitoring.
 
 ## Start Promoting Your Network!
 
