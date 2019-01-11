@@ -16,6 +16,8 @@ First the traffic will be sent to DirectRTX.  The automatic postback system at D
 
 Additionally, you'll have options to monetize the traffic that DirectRTX doesn't purchase - which is where you can make a ton of money.  We'll get more into those details later on in the documentation.  Don't worry, this is all about making money :)
 
+Oh, and at the end of this, we're even going to teach you how to promote the network.
+
 ## What You Need to Get Started
 Please make sure you have the following things before you get started:
 
