@@ -143,6 +143,8 @@ At this point in time, you should take a moment to review everything you've done
 
 ## Changing Configuration Settings
 
+## How To Use The Admin Dashboard
+
 ## Holy Shit!  It's All Setup!
 
 ## Start Promoting Your Network!
