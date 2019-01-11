@@ -155,7 +155,7 @@ This will download the entire repository, but you just need to upload all of the
 
 ## Changing Configuration Settings
 
-Now go to `http://example.com/install.php` to confirm that everything is properly installed.  If everything is working, you'll see a message letting you know.  If the files aren't in the proper place or the script can't connect to your database, you'll get an error message.
+Now go to `http://example.com/install.php` to confirm that everything is properly installed.  If everything is working, you'll see a message letting you know.  If the files aren't in the proper place or the script can't connect to your database, you'll get an error message.  If you get an error message, it should be self-explanatory.
 
 ## Automation With Cron Jobs
 
