@@ -56,4 +56,4 @@ Replace `example.com` with your domain name (without www).  Replace with `XXXXXX
 
 ### Getting Setup At CloudFlare
 
-This is the most complicate step you'll perform during the setup process - that should tell you this who process is going to be pretty damn easy.
+This is the most complicate step you'll perform during the setup process - that should tell you this who process is going to be pretty damn easy.  Remember, CloudFlare and DirectRTX are the reason you'll be able to handle hundreds of millions of hits on a daily basis, so it has to be setup correctly.
