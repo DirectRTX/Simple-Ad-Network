@@ -270,8 +270,7 @@ And finally, use forums to promote your new network - they are great places to f
 - TopGoldForum - https://topgoldforum.com/forum/38-generate-traffic/
 - CPA Hero - http://www.cpahero.com/Forum-Not-CPA-PTC-PPC-PPV-PTP-CPM-General-Discussions-Network-Reviews
 - Black Hat SEM - https://www.blackhatsem.com/Forum-SEO-Internet-Marketing-Social-Media-Tools-Software-Bots
-- Best Blackhat Forum - 
-- Hack Forums - </b>
+- Hack Forums - https://hackforums.net/forumdisplay.php?fid=268</b>
 
 Please note that we didn't review the rules of each forum listed above, but as long as you're just telling people about your new network and not being too spammy, most forums owners are pretty cool about it.  In general, you should just create one thread in each forum we linked to above.  And make sure you check it on a daily basis - every time you respond to someone, the thread will bump to the top of the forum - which gets a lot more eyes on it.
 
