@@ -147,7 +147,7 @@ At this point in time, you should take a moment to review everything you've done
 
 You are now the proud owner of a fully functioning ad network.  And not just any network.  One that's going to handle an unlimited amount of traffic for you and cost you less than $10/month.  You will literally be able to handle more traffic than some networks that are running hundreds of ad servers.  It doesn't get any better than that.
 
-In the sections below, we're going to teach you about the Member's Area that publishers will be using and the Admin Dashboard which is where you can monitor everything.  And don't worry, we don't have any plans on stopping there.  We're even going to teach you how to start promoting your new network!
+In the sections below, we're going to teach you about the Member's Area that publishers will be using and the Admin Dashboard which is where you can monitor everything.  And don't worry, we don't have any plans on stopping there.  We're also going to teach you how to start promoting your new network!
 
 ## Notes About The Member's Area
 
@@ -156,3 +156,5 @@ In the sections below, we're going to teach you about the Member's Area that pub
 ## Start Promoting Your Network!
 
 ## Words of Encouragement...
+
+Getting an ad network popular isn't as easy as you'd think.  It's absolutely worth it because there's a shitload of money you can make, but that doesn't mean it's easy and there will absolutely be times that you feel like giving up.
