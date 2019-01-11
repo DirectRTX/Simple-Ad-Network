@@ -125,6 +125,6 @@ For your Fallback URL, you have 4 options to choose from (from simplest to most 
 
 2.  <b>Send the traffic to a single network.</b>  There are plenty of networks like PopCash, Propeller Ads, and ZeroPark that will provide you with a direct link that you can send the unsold traffic to and make money.
 
-3.  <b>Send the traffic to <a href="https://www.adspyglass.com/">AdSpyGlass</a>.</b>  This is an ad mediation network that will automatically forward your traffic to the network its algorithm detects will pay the most for that specific visitor.  It will also send unsold traffic from one network to the next.
+3.  <b>Send the traffic to <a href="https://www.adspyglass.com/">AdSpyGlass</a>.</b>  This is an ad mediation network that will automatically forward your traffic to the network its algorithm detects will pay the most for that specific visitor.  It will also send unsold traffic from one network to the next using a waterfall system (described below).
 
 4.  <b>Setup your own waterfall system.</b>  
