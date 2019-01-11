@@ -72,4 +72,5 @@ Select your domain and go to the "DNS" tab in CloudFlare's dashboard.
 Each record you add has the option select or enter 4 fields.  Add these two records:
 
 `CNAME` `go` `go.directrtx.com` `Automatic TTL`
+
 `CNAME` `traffic` `go.directrtx.com` `Automatic TTL`
