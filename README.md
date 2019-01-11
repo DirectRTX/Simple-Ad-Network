@@ -50,4 +50,4 @@ Once you've created your account, you'll need to login and do 2 things.  Make su
 1.  Go to the "My Links" section and you'll see your unique link.  In that link is a 6 digit number - write it down.
 2.  Go to https://directrtx.com/postback-settings.php and enter the following URL:
 
-    https://directrtx.com/postback-settings.php
+```http://example.com/postback.php?earnings=[revenue]&click=[clickid]&uniqueid=XXXXXXXXXX```
