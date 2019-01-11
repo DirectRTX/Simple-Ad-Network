@@ -192,9 +192,9 @@ The Member's Area is pretty self-explanatory.  You can create a test account to 
 
 This was done intentionally.  The lack of traffic stats is one of the reasons your network will be able to handle an unlimited amount of traffic.  However, this shouldn't affect publishers very much for two reasons:
 
-1.  They can send traffic to a Bit.ly and have it forwarded to your ad network's traffic link.  This will give them the ability to track how much traffic they've sent, if it's important to them.  Keep in mind that most publishers are just worried about their earnings.
+1.  They can send traffic to a Bit.ly and have it forwarded to your ad network's traffic link.  This will give them the ability to track how much traffic they've sent, if it's important to them.  Most of them just care about their earnings.
 
-2.  
+2.  They can use a Fallback URL. So it doesn't really matter how much traffic you've purchased from them.  If they use a Fallback URL, they know that they aren't losing any traffic.
 
 ## How To Use The Admin Dashboard
 
