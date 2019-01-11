@@ -188,6 +188,8 @@ In the sections below, we're going to teach you about the Member's Area that pub
 
 ## Notes About The Member's Area
 
+The Member's Area is pretty self-explanatory.  You can create a test account to login and play around in it.  The only thing that the Member's Area is missing (that most ad networks have) is a count of the amount of traffic that publisher's have sent.  It shows how much they've earned, but not the amount of traffic they've sent.
+
 ## How To Use The Admin Dashboard
 
 ## Start Promoting Your Network!
