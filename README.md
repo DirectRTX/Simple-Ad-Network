@@ -130,3 +130,7 @@ For your Fallback URL, you have 4 options to choose from (from simplest to most 
 4.  <b>Setup your own waterfall system.</b>  You can signup for multiple networks that provide both direct links and fallback URLs.  For example, you can set Network #1's fallback URL as the direct link from Network #2 and set the fallback URL for Network #2 as the fallback URL from Network #3 and so on.  But in our opinion, it's easier to just use AdSpyGlass to handle all of that for you - they are free and take 10% of your traffic for using their service.
 
 How you choose to handle unsold traffic is completely up to you.  You may be able to find more unique ways to monetize it and that's totally your decision.  These are just the most popular methods people use.
+
+## Let's Take A Break For A Minute
+
+Wow!  If you've reached this point, you're actually almost done!  And you haven't had to do any complicated coding.  You've just had to make a few decisions and change some settings in various control panels.
