@@ -63,3 +63,5 @@ This is the most complicate step you'll perform during the setup process - that 
 2.  During the registration process, you'll need to add your domain.
 
 3.  For your domain to be activated, you'll need to change the nameservers at your domain registrar (again) to point to the ones CloudFlare provides you with.  We first pointed them to your hosting company so CloudFlare can grab the correct DNS records and automatically point to your domain to your hosting company as well.
+
+Once you've completed the 3 steps above, your account and domain are setup at CloudFlare.  But it doesn't end there.  To make the magic happen, we'll need to do 2 more things:  create a CNAME record and setup Page Rules.
