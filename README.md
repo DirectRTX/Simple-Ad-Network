@@ -19,7 +19,7 @@ Additionally, you'll have options to monetize the traffic that DirectRTX doesn't
 ## What You Need to Get Started
 Please make sure you have the following things before you get started:
 
-1.  An account at DirectRTX:  https://directrtx.com
+1.  An account at <a href="https://directrtx.com">DirectRTX</a>.  Instantly approved.
 2.  A free account at CloudFlare:  https://www.cloudflare.com
 3.  A domain name.  We recommend using <a href="https://www.namesilo.com">NameSilo</a>.
 4.  A web hosting account.  We recommend <a href="https://www.stablehost.com">StableHost</a>.
