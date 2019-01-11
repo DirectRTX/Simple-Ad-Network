@@ -176,7 +176,9 @@ After creating your account, let's create a cron job with the below settings.
 
 You can enter whatever you want as the `Title`.  For the URL, enter this: `http://example.com/cron.php?secretkey=XXXXX`
 
-You will need replace `example.com` with your domain name.  And replace `XXXXX` with whatever you set the `cron_key` variable to in your `config.php` file.  A secret key is set to prevent anyone from running your cron job whenever they want to.
+You will need replace `example.com` with your domain name.  And replace `XXXXX` with whatever you set the `cron_key` variable to in your `config.php` file.  A secret key is set to prevent anyone from running your cron.
+
+Under the Schedule section of the cron job, choose to run it `Every day at 0 : 05`.  Under the Notifications settings, select all all options.  Now just click to create the cron job.  You're done!
 
 ## Holy Shit!  It's All Setup!
 
