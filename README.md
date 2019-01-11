@@ -107,10 +107,14 @@ Here's a description of what each Page Rule is doing:
 
 You will need to replace these three things in each of the rules above (while you're adding them):
 
-`example.com` - Replace this with your own domain name.  Leave the `go.` and `traffic.` parts alone.
-`[DIRECTRTX-ID]` - Replace this with your 6-digit ID number that you got earlier from DirectRTX's dashboard.
+`example.com` - Replace this with your own domain name.  Leave the `go.` and `traffic.` parts alone.  
+`[DIRECTRTX-ID]` - Replace this with your 6-digit ID number that you got earlier from DirectRTX's dashboard.  
 `[FALLBACK-URL]` - Replace this with YOUR fallback URL - where you want unsold traffic to go to.
 
 We're going to talk more about the Fallback URL in the next section.  Please read it carefully.
 
 But you're done setting up CloudFlare at this point!  Woohoo!
+
+<b>Using A Default Fallback URL</b>
+
+First and foremost, your Fallback URL should be URL Encoded.  So, after you choose what you want your Fallback URL to be, go to <a href="https://www.urlencoder.org/">URL Encoder</a> and encode it.  The encoded version is what needs to be used in your Page Rules.
