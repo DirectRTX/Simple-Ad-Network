@@ -200,6 +200,12 @@ While this isn't the perfect solutions, many publishers won't care.  You'll cont
 
 ## How To Use The Admin Dashboard
 
+You can access the Admin Dashboard here:
+
+`https://example.com/admin.php?secretkey=XXXXXXXXXX`
+
+Replace `example.com` with your domain and `XXXXXXXXXX` with whatever you set the variable `adminkey` to in your `config.php` file.
+
 ## Start Promoting Your Network!
 
 ## Words of Encouragement...
