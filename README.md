@@ -50,6 +50,6 @@ Once you've created your account, you'll need to login and do 2 things.  Make su
 1.  Go to the "My Links" section and you'll see your unique link.  In that link is a 6 digit number - write it down.
 2.  Go to https://directrtx.com/postback-settings.php and enter the following URL:
 
-```http://example.com/postback.php?revenue=[revenue]&clickid=[clickid]&uniqueid=XXXXXXXXXX```
+```http://example.com/postback.php?revenue=[revenue]&clickid=[clickid]&secretkey=XXXXXXXXXX```
 
 Replace `example.com` with your domain name (without www).  Replace with `XXXXXXXXXX` with a unique 15-digit code.  You can use <a href="https://passwordsgenerator.net/">PasswordGenerator.net</a> to generate this code - just make sure it's only letters and numbers, no special characters.  The unique code is to make sure nobody can send fake postbacks to credit their account.  Do'nt share it with anyone.
