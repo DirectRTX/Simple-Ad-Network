@@ -254,7 +254,7 @@ And finally, use forums to promote your new network - they are great places to f
 - Warrior Forum - https://www.warriorforum.com/ad-networks-cpm-cpl-display/
 - BlackHatWorld - https://www.blackhatworld.com/forums/pay-per-click.13/</b>
 
-Please note that we didn't review the rules of each forum listed above, but as long as you're just telling people about your new network and not being too spammy, most forums owners are pretty cool about it.
+Please note that we didn't review the rules of each forum listed above, but as long as you're just telling people about your new network and not being too spammy, most forums owners are pretty cool about it.  In general, you should just create one thread in each forum we linked to above.  And make sure you check it on a daily basis - every time you respond to someone, the thread will bump to the top of the forum.
 
 Also, don't forget that some forums have a culture where members are very untrusting or just like to troll new users.  So, don't be surprised if you're questioned or come under fire.  Just relax - answer questions and be polite.  For every person that talks shit - there's several more people that just visited your network because they're interested in it.
 
