@@ -159,7 +159,8 @@ You are going to need to edit each line of your `config.php` file.
 
 Here's an explanation of what each variable is used for:
 
-```$hostname - The name hostname for connecting to MySQL.  Normally this is "localhost". 
+```
+$hostname - The name hostname for connecting to MySQL.  Normally this is "localhost". 
 $username = The user you created and added to your MySQL database. 
 $password = The password for the above MySQL user.  Not your cPanel password. 
 $database = The name of your MySQL database.  Case sensitive. 
