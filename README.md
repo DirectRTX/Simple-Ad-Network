@@ -14,7 +14,7 @@ Your ad network will be able to handle an unlimited amount of publishers.  All o
 
 First the traffic will be sent to DirectRTX.  The automatic postback system at DirectRTX will automatically ping your system whenever traffic is purchased and your system will automatically credit it to the correct publisher's account.  So, you'll make money by paying a percent of that money to publishers and keeping a percent for yourself.
 
-Additionally, you'll have options to monetize the traffic that DirectRTX doesn't purchase - which is where you can make a ton of money.  We'll get more into those details later on in the documentation.  Don't worry, this is all about making money :)
+Additionally, you'll have options to monetize the traffic that DirectRTX doesn't purchase - which is where you can make a ton of money.  If a publisher doesn't set a fallback URL (around half of them tend not to), you'll be able to set a default URL where all that unsold traffic gets sent to.  Any money you earn from these networks will be 100% profit for you - most networks don't have features like DirectRTX, so there's no way to credit that money to publishers.  This tends to be standard practice in the popunder world.  If the network doesn't have direct advertisers for traffic, they just sell it off to other networks and keep the profit.  Don't worry, this is all about making money :)
 
 Oh, and at the end of this, we're even going to teach you how to promote the network.
 
