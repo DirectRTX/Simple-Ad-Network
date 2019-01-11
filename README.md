@@ -234,6 +234,7 @@ Whenever payments are due to someone, a new section will appear that's normally 
 
 ## Start Promoting Your Network!
 
+Now that your network is setup and you understand how everything works, it's time to start promoting it.  People aren't going to just magically know your network exists.  So, we'll help you get started.
 
 ## Important Details About Payouts
 
