@@ -196,6 +196,8 @@ This was done intentionally.  The lack of traffic stats is one of the reasons yo
 
 2.  They can use a Fallback URL. So it doesn't really matter how much traffic you've purchased from them.  If they use a Fallback URL, they know that they aren't losing any traffic.
 
+While this isn't the perfect solutions, many publishers won't care.  You'll continuously have ones that email asking about traffic stats, but we actually cover this in the support area of the Member's Area.  So, if it's important for them to track, they'll just use something like Bit.ly to track that traffic.
+
 ## How To Use The Admin Dashboard
 
 ## Start Promoting Your Network!
