@@ -101,4 +101,4 @@ Here's a description of what each Page Rule is doing:
 
 <b>Page Rule #1 -</b> Passes along your publisher's Fallback URL whenever they've entered one.  
 <b>Page Rule #2 -</b> Automatically enters your Fallback URL whenever a publisher doesn't set their own.  
-<b>Page Rule #3 -</b> Catches all traffic that doesn't include a publisher's ID number and sends it to redirect (100% profit for you).  
+<b>Page Rule #3 -</b> Catches all traffic that doesn't include a publisher's ID number and redirects it.
