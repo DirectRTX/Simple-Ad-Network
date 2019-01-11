@@ -145,6 +145,8 @@ You'll need to login to your control panel and go to MySQL Databases.  Create a 
 
 Now, go to phpMyAdmin (in cPanel) and select the database you just created.  Once your database has been selected, click on "Import" in the top navigation.  Upload the `database.sql` file that's downloadable from above.
 
+Congrats!  Your database has been setup and you'll never have to mess with it again.
+
 ## Uploading Your Website's Files
 
 ## Changing Configuration Settings
