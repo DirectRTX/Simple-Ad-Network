@@ -52,4 +52,4 @@ Once you've created your account, you'll need to login and do 2 things.  Make su
 
 ```http://example.com/postback.php?revenue=[revenue]&clickid=[clickid]&uniqueid=XXXXXXXXXX```
 
-Replace `example.com` with your domain name (without www).  Replace with `XXXXXXXXXX` with a unique 15-digit code.  You can use <a href="https://passwordsgenerator.net/">PasswordGenerator.net</a> to generate this code - just make sure it's only letters and numbers, no special characters.  The unique code is to make sure nobody can send fake postbacks to credit their account.  Do not share this code with anyone, but save it somewhere because you'll need it later.
+Replace `example.com` with your domain name (without www).  Replace with `XXXXXXXXXX` with a unique 15-digit code.  You can use <a href="https://passwordsgenerator.net/">PasswordGenerator.net</a> to generate this code - just make sure it's only letters and numbers, no special characters.  The unique code is to make sure nobody can send fake postbacks to credit their account.  Do'nt share it with anyone.
