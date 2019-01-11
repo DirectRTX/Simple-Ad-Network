@@ -5,5 +5,7 @@ Our #1 goal when developing this script was to allow anyone to start their own n
 
 Please read the full documentation before setting up your own network.  If you've ever installed a script like WordPress - this will be just as easy.  But there's a lot of moving parts to make sure that your network can easily handle hundreds of millions of hits per day.  Below we'll walk you through every step of getting setup and explain how everything works.
 
-## How It Works
-More information coming soon.
+## How You'll Make Money
+We know that's what you're here for, so let's get right to it.
+
+Your ad network will be able to handle an unlimited amount of publishers.  All of the traffic is going to be routed using CloudFlare, so the traffic itself never even hits your server.  Managing multiple clusters of servers handling hundreds of millions of hits per day can be a huge task - we've handled that for you.
