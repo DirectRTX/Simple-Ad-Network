@@ -143,9 +143,13 @@ At this point in time, you should take a moment to review everything you've done
 
 ## Changing Configuration Settings
 
-## How To Use The Admin Dashboard
-
 ## Holy Shit!  It's All Setup!
+
+You are now the proud owner of a fully functioning ad network.  And not just any network.  One that's going to handle an unlimited amount of traffic for you and cost you less than $10/month.
+
+## Notes About The Member's Area
+
+## How To Use The Admin Dashboard
 
 ## Start Promoting Your Network!
 
