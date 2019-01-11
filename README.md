@@ -297,3 +297,5 @@ When you feel that way, just remember that we've already done all the heavy lift
 We did this so that you can dedicate all of your time to promoting your new ad network.  But if for some reason you decide to shutdown your network.  Send the payouts you owe to publishers and then use your DirectRTX referral link to send them to us.  That way you shutdown your network the right way, but still continue earning from publishers you referred to us :)
 
 Good luck running and promoting your new network - we wish you the best of luck!
+
+- The DirectRTX Team
