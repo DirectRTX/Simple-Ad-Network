@@ -274,4 +274,6 @@ Getting an ad network popular isn't as easy as you'd think.  It's absolutely wor
 
 When you feel that way, just remember that we've already done all the heavy lifting for you.  You're never going to have to deal with the stress of managing hundreds of servers.  You don't have to worry about chargebacks from advertisers.  You don't even have to worry about your system ever going offline.  We've taken away every stress we possibly can.
 
-We did this so that you can dedicate all of your time to promoting your new ad network.  But if for some reason you decide to shutdown your network.  Send all the payouts you owe to publishers and then use your DirectRTX referral link to send them directly to us.  That way you shutdown your network the right way, but still continue earning from publishers you referred to us :)
+We did this so that you can dedicate all of your time to promoting your new ad network.  But if for some reason you decide to shutdown your network.  Send the payouts you owe to publishers and then use your DirectRTX referral link to send them to us.  That way you shutdown your network the right way, but still continue earning from publishers you referred to us :)
+
+Good luck running and promoting your new network - we wish you the best of luck!
