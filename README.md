@@ -86,4 +86,14 @@ You're done setting up the required DNS records.  It really wasn't that difficul
 
 Go to the Page Rules tab in CloudFlare's dashboard.
 
-You're going to create 3 pages - all of them are going to use the `Forwarding URL` setting.  Also, they will all use the `Status Code` 301.
+You're going to create 3 pages - all of them are going to use the `Forwarding URL` setting.  Also, they will all use the `Status Code` 301. Now that you know those 2 settings are used by all 3 page rules, create these:
+
+URL Match Line: `*go.example.com/*/?fb=*`
+Destination URL:  `https://traffic.example.com/[DIRECTRTX-ID]/?clickid=$2&fb=$3`
+
+URL Match Line: ``
+Destination URL:  ``
+
+URL Match Line: ``
+Destination URL:  ``
+
