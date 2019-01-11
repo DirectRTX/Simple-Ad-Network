@@ -206,6 +206,20 @@ You can access the Admin Dashboard here:
 
 Replace `example.com` with your domain and `XXXXXXXXXX` with whatever you set the variable `adminkey` to in your `config.php` file.  This secret key is used to prevent anyone from access your admin dashboard.  However, even if someone gained access to it, there's very little damage they could actually to.  The admin area was mainly designed for monitoring.
 
+Below we'll explain each section of the Admin Panel.
+
+<b>Top Stats Section</b>
+
+<b>Member's List Section</b>
+
+This section lists all of your member's that have ever earned money.  We do not list any members that just signed up and never sent any traffic or earned any money.
+
+<b>Daily Stats Section</b>
+
+<b>Hidden Payments Section</b>
+
+
+
 ## Start Promoting Your Network!
 
 ## Words of Encouragement...
