@@ -216,6 +216,8 @@ This section lists all of your members that have ever earned money.  We do not l
 
 <b>Daily Stats Section</b>
 
+This section just shows your network's stats over the past 30 days.  There's nothing really special about it, it's simply there to help you monitor how the network is growing over time.  Your database also stores the stats for every day forever.
+
 <b>Hidden Payments Section</b>
 
 
