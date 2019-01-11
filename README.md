@@ -260,6 +260,8 @@ Also, don't forget that some forums have a culture where members are very untrus
 
 One of the most important things to remember is what makes your network different.  You can run a general popunder network or you could focus on specific types of traffic.  For example, you could specifically try to attract adult publishers or people selling proxy traffic.  Another great way to differentiate yourself is by offering a unique payment method. For example, you could start a network that exclusively pays out in Ethereum or Monero.  It's completely up to you.
 
+And of course, these are all webmaster or internet marketing forums.  So, you should definitely mention that you have an affiliate program.  Even if someone doesn't want to send traffic, they may be interested in promoting it.
+
 ## Important Details About Payouts
 
 One of the top complaints about ad networks is publishers not getting paid out or having their earnings "adjusted" right before it's time to payout.  Sometimes that happens due to chargebacks from advertisers, sometimes that happens because the networks are just scammers.  You don't want to be one of those guys.  They make a little money short term, but they'll never experience how much they could be earning by running a network the right way.
