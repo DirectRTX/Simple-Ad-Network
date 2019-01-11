@@ -168,6 +168,10 @@ Now go to `http://example.com/install.php` to confirm that everything is properl
 
 ## Automation With Cron Jobs
 
+There is one cron file that must run every day, without fail.  Technically, if it fails, it would be a game ender.  When it runs the next day, it'll catchup all of the stats.  But it's pretty important that it runs every day.
+
+We suggest using <a href="https://cron-job.org">Cron-Job.org</a>.  It tends to be more reliable to server-based cron jobs and logs everything.  Go there and create an account.  During the account creation process, it's very important that you select `UTC` as your timezone.  It's the last option in the timezone selector.  Every file of the script is setup ensure UTC is being used as the timezone.
+
 ## Holy Shit!  It's All Setup!
 
 You are now the proud owner of a fully functioning ad network.  And not just any network.  One that's going to handle an unlimited amount of traffic for you and cost you less than $10/month.  You will literally be able to handle more traffic than some networks that are running hundreds of ad servers.  It doesn't get any better than that.
