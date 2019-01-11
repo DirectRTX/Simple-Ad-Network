@@ -141,11 +141,13 @@ At this point in time, you should take a moment to review everything you've done
 
 We're going to assume that you're using a web hosting company that uses cPanel.  But even if you're not, these instructions should still work for most hosting companies.
 
-You'll need to login to your control panel and go to MySQL Databases.  Create a database AND add a user to the database.  Adding a user is very important.  If you don't add one, you won't be able to connect to the database.  People forget to do this all the time.
+You'll need to login to your control panel and go to MySQL Databases.  Create a database AND add a user to the database.  Adding a user is very important.  If you don't add one, you won't be able to connect to the database.
 
 ## Uploading Your Website's Files
 
 ## Changing Configuration Settings
+
+## Automation With Cron Jobs
 
 ## Holy Shit!  It's All Setup!
 
