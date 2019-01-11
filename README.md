@@ -77,4 +77,4 @@ Each record you add has the option select or enter 4 fields.  Add these two reco
 
 After these are added, make sure there's an orange cloud next to each of them.
 
-You're done setting up the required DNS records.  Wasn't that difficult was it?
+You're done setting up the required DNS records.  It really wasn't that difficult was it?
