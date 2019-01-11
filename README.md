@@ -190,6 +190,12 @@ In the sections below, we're going to teach you about the Member's Area that pub
 
 The Member's Area is pretty self-explanatory.  You can create a test account to login and play around in it.  The only thing that the Member's Area is missing (that most ad networks have) is a count of the amount of traffic that publisher's have sent.  It shows how much they've earned, but not the amount of traffic they've sent.
 
+This was done intentionally.  The lack of traffic stats is one of the reasons your network will be able to handle an unlimited amount of traffic.  However, this shouldn't affect publishers very much for two reasons:
+
+1.  They can send traffic to a Bit.ly and have it forwarded to your ad network's traffic link.  This will give them the ability to track how much traffic they've sent, if it's important to them.
+
+2.  
+
 ## How To Use The Admin Dashboard
 
 ## Start Promoting Your Network!
