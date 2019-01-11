@@ -5,6 +5,8 @@ Our #1 goal when developing this script was to allow anyone to start their own n
 
 Please read the full documentation before setting up your own network.  If you've ever installed a script like WordPress - this will be just as easy.  But there's a lot of moving parts to make sure that your network can easily handle hundreds of millions of hits per day.  Below we'll walk you through every step of getting setup and explain how everything works.
 
+This documentation is pretty long.  But - you can actually get your entire network fully setup and running in less than 60 minutes by following these instructions.  Don't believe us?  Time it.  Seriously, it'll be done within 60 minutes.
+
 By the way, this is one badass system.  It can handle unlimited traffic, has a built-in affiliate program, and provides publishers with multiple ways (popunders, direct links, etc) to send traffic.  There's nothing else like it online.
 
 ## How You'll Make Money
