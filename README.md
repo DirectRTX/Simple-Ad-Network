@@ -97,3 +97,8 @@ You're going to create 3 pages - all of them are going to use the `Forwarding UR
 <b>URL Match Line #3:</b> `*go.example.com*`  
 <b>Destination URL #3:</b>  `https://traffic.example.com/[DIRECTRTX-ID]/?fb=[FALLBACK-URL]`
 
+Here's a description of what each Page Rule is doing:
+
+Page Rule #1 - Passes along your publisher's Fallback URL whenever they've entered one.
+Page Rule #2 - Automatically enters your Fallback URL whenever a publisher doesn't set their own.
+Page Rule #3 - Catches all traffic that doesn't include a publisher's ID number and sends it to redirect (100% profit for you).
