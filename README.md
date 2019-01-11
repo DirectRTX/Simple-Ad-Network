@@ -134,3 +134,5 @@ How you choose to handle unsold traffic is completely up to you.  You may be abl
 ## Let's Take A Break For A Minute
 
 Wow!  If you've reached this point, you're actually almost done!  And you haven't had to do any complicated coding.  You've just had to make a few decisions and change some settings in various control panels.
+
+At this point in time, you should take a moment to review everything you've done above.  If it's done correctly, the system will work perfectly and be able to handle hundreds of millions of hits per day.  But even the smallest errors can cause the entire system to break.
