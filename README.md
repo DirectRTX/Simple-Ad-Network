@@ -161,4 +161,4 @@ Getting an ad network popular isn't as easy as you'd think.  It's absolutely wor
 
 When you feel that way, just remember that we've already done all the heavy lifting for you.  You're never going to have to deal with the stress of managing hundreds of servers.  You don't have to worry about chargebacks from advertisers.  You don't even have to worry about your system ever going offline.  We've taken away every stress we possibly can.
 
-Why?  So that you can dedicate all of your time to promoting your new ad network.
+We did this so that you can dedicate all of your time to promoting your new ad network.
