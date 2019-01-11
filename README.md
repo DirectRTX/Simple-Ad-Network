@@ -176,6 +176,8 @@ After creating your account, let's create a cron job with the below settings.
 
 You can enter whatever you want as the `Title`.  For the URL, enter this: `http://example.com/cron.php?secretkey=XXXXX`
 
+You will need replace `example.com` with your domain name.  And replace `XXXXX` with whatever you set the `cron_key` variable to in your `config.php` file.  A secret key is set to prevent anyone from running your cron job whenever they want to.
+
 ## Holy Shit!  It's All Setup!
 
 You are now the proud owner of a fully functioning ad network.  And not just any network.  One that's going to handle an unlimited amount of traffic for you and cost you less than $10/month.  You will literally be able to handle more traffic than some networks that are running hundreds of ad servers.  It doesn't get any better than that.
