@@ -23,8 +23,8 @@ Please make sure you have the following things before you get started:
 
 1.  A domain name.  We recommend using <a href="https://www.namesilo.com">NameSilo</a>.
 2.  A web hosting account.  We recommend <a href="https://www.stablehost.com">StableHost</a>.
-3.  A free account at <a href="https://www.cloudflare.com">CloudFlare</a>.  No upgrades needed.
-4.  An account at <a href="https://directrtx.com">DirectRTX</a>.  Instantly approved.
+3.  An account at <a href="https://directrtx.com">DirectRTX</a>.  Instantly approved.
+4.  A free account at <a href="https://www.cloudflare.com">CloudFlare</a>.  No upgrades needed.
 5.  A <a href="https://www.paypal.com/">PayPal</a> account.  Used for payments from DirectRTX.
 
 You can use any web hosting company you want, but make sure this script is the only thing installed in the account.  It was developed using StableHost so we know it works perfectly there.  Just make sure that whatever hosting company you use has PHP and MySQL (or MariaDB) available - also, it needs to run on Apache if possible.
@@ -40,3 +40,11 @@ Please don't email asking for suggestions, we don't care what you name your netw
 ### Create A Web Hosting Account
 
 Go to StableHost and signup for the cheapest plan.  After creating your account, they will provide you with your nameservers.  Nameservers are used to point a domain name to the server it's hosted.  So, go back to the company you registered your domain name with and change the nameservers for your domain to the ones provided by StableHost.
+
+### Signup at DirectRTX.com
+
+Go to DirectRTX.com and create an account.  It's simple and doesn't even require email verification.
+
+Once you've created your account, you'll need to login and do 2 things.  Make sure you pay attention here:
+
+1.  Go to the "My Links" section and you'll see your unique link.  In that link is a 6 digit number.  Write down that number.  You're going to be using it in the next section.
