@@ -76,9 +76,9 @@ Select your domain and go to the "DNS" tab in CloudFlare's dashboard.
 
 Each record you add has the option select or enter 4 fields.  Add these two records:
 
-`CNAME` `go` `go.directrtx.com` `Automatic TTL`
+`CNAME` `go` `x.directrtx.com` `Automatic TTL`
 
-`CNAME` `traffic` `go.directrtx.com` `Automatic TTL`
+`CNAME` `traffic` `x.directrtx.com` `Automatic TTL`
 
 After these are added, make sure there's an orange cloud next to each of them.
 
@@ -91,13 +91,13 @@ Go to the Page Rules tab in CloudFlare's dashboard.
 You're going to create 3 pages - all of them are going to use the `Forwarding URL` setting.  Also, they will all use the `Status Code` 301. Now that you know those 2 settings are used by all 3 page rules, create these:
 
 <b>URL Match Line #1:</b> `*go.example.com/*/?fb=*`  
-<b>Destination URL #1:</b>  `https://traffic.example.com/[DIRECTRTX-ID]/?clickid=$2&fb=$3`
+<b>Destination URL #1:</b>  `http://traffic.example.com/?subid=[DIRECTRTX-ID]&clickid=$2&fb=$3`
 
 <b>URL Match Line #2:</b> `*go.example.com/*/*`  
-<b>Destination URL #2:</b>  `https://traffic.example.com/[DIRECTRTX-ID]/?clickid=$2&fb=[FALLBACK-URL]`
+<b>Destination URL #2:</b>  `http://traffic.example.com/?subid=[DIRECTRTX-ID]&clickid=$2&fb=[FALLBACK-URL]`
 
 <b>URL Match Line #3:</b> `*go.example.com*`  
-<b>Destination URL #3:</b>  `https://traffic.example.com/[DIRECTRTX-ID]/?fb=[FALLBACK-URL]`
+<b>Destination URL #3:</b>  `http://traffic.example.com/?subid=[DIRECTRTX-ID]&fb=[FALLBACK-URL]`
 
 Here's a description of what each Page Rule is doing:
 
