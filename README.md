@@ -145,7 +145,7 @@ At this point in time, you should take a moment to review everything you've done
 
 ## Holy Shit!  It's All Setup!
 
-You are now the proud owner of a fully functioning ad network.  And not just any network.  One that's going to handle an unlimited amount of traffic for you and cost you less than $10/month.
+You are now the proud owner of a fully functioning ad network.  And not just any network.  One that's going to handle an unlimited amount of traffic for you and cost you less than $10/month.  You will literally be able to handle more traffic than some networks that are running hundreds of ad servers.
 
 ## Notes About The Member's Area
 
