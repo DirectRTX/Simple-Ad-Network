@@ -34,3 +34,9 @@ So, let's get started setting up everything below.  We'll use our suggestions as
 ### Register Your Domain Name
 
 Your domain name is your brand, but we shouldn't have to teach you that.  Look at some of the names of other popunder networks and come up with something unique.  Once you've found a good domain name, register it at NameSilo.
+
+Please don't email asking for suggestions, we don't care what you name your network.
+
+### Create A Web Hosting Account
+
+Go to StableHost and signup for the cheapest plan.  After creating your account, they will provide you with your nameservers.  Nameservers are used to point a domain name to the server it's hosted.  So, go back to the company you registered your domain name with and change the nameservers for your domain to the ones provided by StableHost.
