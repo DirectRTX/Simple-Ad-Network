@@ -212,7 +212,7 @@ Below we'll explain each section of the Admin Panel.
 
 <b>Member's List Section</b>
 
-This section lists all of your member's that have ever earned money.  We do not list any members that just signed up and never sent any traffic or earned any money.
+This section lists all of your members that have ever earned money.  We do not list any members that just signed up and never sent any traffic or earned any money.  There's a lot of members that signup and never do anything.
 
 <b>Daily Stats Section</b>
 
