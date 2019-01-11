@@ -67,6 +67,7 @@ This is the most complicate step you'll perform during the setup process - that 
 Once you've completed the 3 steps above, your account and domain are setup at CloudFlare.  But it doesn't end there.  To make the magic happen, we'll need to do 2 more things:  create a couple of CNAME records and setup Page Rules.
 
 <b>How to Create A CNAME Records</b>
+
 Select your domain and go to the "DNS" tab in CloudFlare's dashboard.
 
 Each record you add has the option select or enter 4 fields.  Add these two records:
