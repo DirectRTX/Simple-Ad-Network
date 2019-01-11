@@ -121,6 +121,10 @@ First and foremost, your Fallback URL should be URL Encoded.  So, after you choo
 
 For your Fallback URL, you have 4 options to choose from (from simplest to most complicate):
 
-1.  Set it as your ad network's homepage.  Any unsold traffic will be sent there and advertise your network.  You won't earn money directly from this traffic, but some people may signup and earn money for you.
+1.  <b>Set it as your ad network's homepage.</b>  Any unsold traffic will be sent there and advertise your network.  You won't earn money directly from this traffic, but some people may signup and earn money for you.
 
-2.  
+2.  <b>Send the traffic to a single network.</b>  
+
+3.  <b>Send the traffic to AdSpyGlass.</b>  
+
+4.  <b>Setup your own waterfall system.</b>  
