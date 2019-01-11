@@ -220,7 +220,7 @@ This section just shows your network's stats over the past 30 days.  There's not
 
 <b>Hidden Payments Section</b>
 
-Whenever payments are due to someone, a new section will appear that's normally hidden.  It will have a list of any members you need to send payments to along with their payout details and the amount owned.  You'll be able to mark member's as paid after you send each payment.
+Whenever payments are due to someone, a new section will appear that's normally hidden.  It will have a list of any members you need to send payments to along with their payout details and the amount owned.  You'll be able to mark member's as paid after you send each payment.  You will be required to enter a transaction ID for record keeping.  This can be anything from a PayPal transaction ID to a Bitcoin transaction ID to a random string that you've generated.
 
 ## Start Promoting Your Network!
 
