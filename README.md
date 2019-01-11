@@ -210,6 +210,16 @@ Below we'll explain each section of the Admin Panel.
 
 <b>Top Stats Section</b>
 
+There are 6 stats boxes, here's what they mean:
+
+<u>Active Members</u> - Enter details here.  
+<u>Total Members</u> - Enter details here.  
+<u>Today's Revenue</u> - Enter details here.  
+
+<u>Total Revenue</u> - Enter details here.  
+<u>Member Earnings</u> - Enter details here.  
+<u>Network Profit</u> - Enter details here.  
+
 <b>Member's List Section</b>
 
 This section lists all of your members that have ever earned money.  We do not list any members that just signed up and never sent any traffic or earned any money.  There's a lot of members that signup and never do anything.
