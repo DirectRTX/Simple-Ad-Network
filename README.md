@@ -23,6 +23,6 @@ Please make sure you have the following things before you get started:
 2.  A free account at CloudFlare:  https://www.cloudflare.com
 3.  A domain name.  We recommend using <a href="https://www.namesilo.com">NameSilo</a>.
 4.  A web hosting account.  We recommend <a href="https://www.stablehost.com">StableHost</a>.
-5.  A PayPal account.  Used for payments from DirectRTX.  Not required.
+5.  A PayPal account.  Used for payments from DirectRTX.
 
 You can use any web hosting company you want, but make sure this script is the only thing installed in the account.  It was developed using StableHost so we know it works perfectly there.  Just make sure that whatever hosting company you use has PHP and MySQL (or MariaDB) available - also, it needs to run on Apache if possible.
