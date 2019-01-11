@@ -256,6 +256,8 @@ And finally, use forums to promote your new network - they are great places to f
 
 Please note that we didn't review the rules of each forum listed above, but as long as you're just telling people about your new network and not being too spammy, most forums owners are pretty cool about it.
 
+Also, don't forget that some forums have a culture where members are very untrusting or just like to troll new users.  So, don't be surprised if you're questioned or come under fire.  Just relax - answer questions and be polite.  For every person that talks shit - there's several more people that just visited your network because they're interested in it.
+
 One of the most important things to remember is what makes your network different.  You can run a general popunder network or you could focus on specific types of traffic.  For example, you could specifically try to attract adult publishers or people selling proxy traffic.  Another great way to differentiate yourself is by offering a unique payment method. For example, you could start a network that exclusively pays out in Ethereum or Monero.  It's completely up to you.
 
 ## Important Details About Payouts
