@@ -7,7 +7,7 @@ Please read the full documentation before setting up your own network.  If you'v
 
 This documentation is pretty long.  But - you can actually get your entire network fully setup and running in less than 60 minutes by following these instructions.  Don't believe us?  Time it.  Seriously, it'll be done within 60 minutes.
 
-By the way, this is one badass system.  It can handle unlimited traffic, has a built-in affiliate program, and provides publishers with multiple ways (popunders, direct links, etc) to send traffic.  There's nothing else like it online.
+By the way, this is one badass system.  It can handle unlimited traffic, has a built-in affiliate program, and provides publishers with multiple ways (popunders, direct links, etc) to send traffic.  There's nothing else like it.  And it's free.
 
 ## How You'll Make Money
 We know that's what you're here for, so let's get right to it.
