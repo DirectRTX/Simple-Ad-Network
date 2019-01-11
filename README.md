@@ -238,9 +238,15 @@ Now that your network is setup and you understand how everything works, it's tim
 
 First, you need to submit your network to the top blogs that promote new networks.
 
-ADSWikia - https://adswikia.com/add-network/   
+<b>ADSWikia - https://adswikia.com/add-network/   
 Adswiki - https://www.adswiki.net/add-network-program  
-Make Money With URL - https://makemoneywithurl.com/submit-ad-network  
+Make Money With URL - https://makemoneywithurl.com/submit-ad-network</b>  
+
+These blogs will take days (or weeks) to list your network.  So, let's move on to the next step:
+
+<b>MyMediAds - https://mymediads.com</b>
+
+MyMediAds is designed specifically for attracting publishers and advertisers.  So, you should be consistently posting advertisements here and bumping your existing ads to the top.  You can also respond to other people's ads, chat with them in Skype, and start networking to grow your network.
 
 One of the most important things to remember is what makes your network different.  You can run a general popunder network or you could focus on specific types of traffic.  For example, you could specifically try to attract adult publishers or people selling proxy traffic.  Another great way to differentiate yourself is by offering a unique payment method. For example, you could start a network that exclusively pays out in Ethereum or Monero.  It's completely up to you.
 
