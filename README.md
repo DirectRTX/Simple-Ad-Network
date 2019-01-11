@@ -25,11 +25,11 @@ Oh, and at the end of this, we're even going to teach you how to promote the net
 ## What You Need to Get Started
 Please make sure you have the following things before you get started:
 
-1.  A domain name.  We recommend using <a href="https://www.namesilo.com">NameSilo</a>.
-2.  A web hosting account.  We recommend <a href="https://www.stablehost.com">StableHost</a>.
-3.  An account at <a href="https://directrtx.com">DirectRTX</a>.  Instantly approved.
-4.  A free account at <a href="https://www.cloudflare.com">CloudFlare</a>.  No upgrades needed.
-5.  A <a href="https://www.paypal.com/">PayPal</a> account.  Used for payments from DirectRTX.
+1.  A domain name.  We recommend using <a target="_blank" href="https://www.namesilo.com">NameSilo</a>.
+2.  A web hosting account.  We recommend <a target="_blank" href="https://www.stablehost.com">StableHost</a>.
+3.  An account at <a target="_blank" href="https://directrtx.com">DirectRTX</a>.  Instantly approved.
+4.  A free account at <a target="_blank" href="https://www.cloudflare.com">CloudFlare</a>.  No upgrades needed.
+5.  A <a target="_blank" href="https://www.paypal.com/">PayPal</a> account.  Used for payments from DirectRTX.
 
 You can use any web hosting company you want, but make sure this script is the only thing installed in the account.  It was developed using StableHost so we know it works perfectly there.  Just make sure that whatever hosting company you use has PHP and MySQL (or MariaDB) available - also, it needs to run on Apache if possible.
 
@@ -56,7 +56,7 @@ Once you've created your account, you'll need to login and do 2 things.  Make su
 
 ```http://example.com/postback.php?revenue=[revenue]&clickid=[clickid]&secretkey=XXXXXXXXXX```
 
-Replace `example.com` with your domain name (without www).  Replace with `XXXXXXXXXX` with a unique 15-digit code.  You can use <a href="https://passwordsgenerator.net/">PasswordGenerator.net</a> to generate this code - just make sure it's only letters and numbers, no special characters.  The unique code is to make sure nobody can send fake postbacks to credit their account.  Do'nt share it with anyone.
+Replace `example.com` with your domain name (without www).  Replace with `XXXXXXXXXX` with a unique 15-digit code.  You can use <a target="_blank" href="https://passwordsgenerator.net/">PasswordGenerator.net</a> to generate this code - just make sure it's only letters and numbers, no special characters.  The unique code is to make sure nobody can send fake postbacks to credit their account.  Do'nt share it with anyone.
 
 ### Getting Setup At CloudFlare
 
@@ -117,7 +117,7 @@ But you're done setting up CloudFlare at this point!  Woohoo!
 
 <b>Using A Default Fallback URL</b>
 
-First and foremost, your Fallback URL should be URL Encoded.  So, after you choose what you want your Fallback URL to be, go to <a href="https://www.urlencoder.org/">URL Encoder</a> and encode it.  The encoded version is what needs to be used in your Page Rules.
+First and foremost, your Fallback URL should be URL Encoded.  So, after you choose what you want your Fallback URL to be, go to <a target="_blank" href="https://www.urlencoder.org/">URL Encoder</a> and encode it.  The encoded version is what needs to be used in your Page Rules.
 
 For your Fallback URL, you have 4 options to choose from (from simplest to most complicate):
 
@@ -125,7 +125,7 @@ For your Fallback URL, you have 4 options to choose from (from simplest to most 
 
 2.  <b>Send the traffic to a single network.</b>  There are plenty of networks like PopCash, Propeller Ads, and ZeroPark that will provide you with a direct link that you can send the unsold traffic to and make money.
 
-3.  <b>Send the traffic to <a href="https://www.adspyglass.com/">AdSpyGlass</a>.</b>  This is an ad mediation network that will automatically forward your traffic to the network its algorithm detects will pay the most for that specific visitor.  It will also send unsold traffic from one network to the next using a waterfall system (described below).
+3.  <b>Send the traffic to <a target="_blank" href="https://www.adspyglass.com/">AdSpyGlass</a>.</b>  This is an ad mediation network that will automatically forward your traffic to the network its algorithm detects will pay the most for that specific visitor.  It will also send unsold traffic from one network to the next using a waterfall system (described below).
 
 4.  <b>Setup your own waterfall system.</b>  You can signup for multiple networks that provide both direct links and fallback URLs.  For example, you can set Network #1's fallback URL as the direct link from Network #2 and set the fallback URL for Network #2 as the fallback URL from Network #3 and so on.  But in our opinion, it's easier to just use AdSpyGlass to handle all of that for you - they are free and take 10% of your traffic for using their service.
 
@@ -149,7 +149,7 @@ Congrats!  Your database has been setup and you'll never have to mess with it ag
 
 ## Uploading Your Website's Files
 
-Now it's time to get your website's files upload.  You can download this Github repository by <a href="https://github.com/DirectRTX/Simple-Traffic-Network/archive/master.zip">clicking here</a>.
+Now it's time to get your website's files upload.  You can download this Github repository by <a target="_blank" href="https://github.com/DirectRTX/Simple-Traffic-Network/archive/master.zip">clicking here</a>.
 
 This will download the entire repository, but you just need to upload all of the files from the `UPLOAD` directory to your `public_html` folder.  Please note, you don't need to upload the `UPLOAD` directory itself, just upload all of the files that are inside of it.  I suggest using FileZilla to upload the files quickly.
 
@@ -170,7 +170,11 @@ Now go to `http://example.com/install.php` to confirm that everything is properl
 
 There is one cron file that must run every day, without fail.  Technically, if it fails, it would be a game ender.  When it runs the next day, it'll catchup all of the stats.  But it's pretty important that it runs every day.
 
-We suggest using <a href="https://cron-job.org">Cron-Job.org</a>.  It tends to be more reliable to server-based cron jobs and logs everything.  Go there and create an account.  During the account creation process, it's very important that you select `UTC` as your timezone.  It's the last option in the timezone selector.  Every file of the script is setup ensure UTC is being used as the timezone.
+We suggest using <a target="_blank" href="https://cron-job.org">Cron-Job.org</a>.  It tends to be more reliable to server-based cron jobs and logs everything.  Go there and create an account.  During the account creation process, it's very important that you select `UTC` as your timezone.  It's the last option in the timezone selector.  Every file of the script is setup ensure UTC is being used as the timezone.
+
+After creating your account, let's create a cron job with the below settings.
+
+You can enter whatever you want as the `Title`.  For the URL, enter this: `http://example.com/cron.php?secretkey=XXXXX`
 
 ## Holy Shit!  It's All Setup!
 
