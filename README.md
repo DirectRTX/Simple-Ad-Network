@@ -91,9 +91,9 @@ You're going to create 3 pages - all of them are going to use the `Forwarding UR
 <b>URL Match Line #1:</b> `*go.example.com/*/?fb=*`  
 <b>Destination URL #1:</b>  `https://traffic.example.com/[DIRECTRTX-ID]/?clickid=$2&fb=$3`
 
-URL Match Line: ``
-Destination URL:  ``
+URL Match Line: `*go.example.com/*/*`  
+Destination URL:  `https://traffic.example.com/[DIRECTRTX-ID]/?clickid=$2&fb=[FALLBACK-URL]`
 
-URL Match Line: ``
+URL Match Line: ``  
 Destination URL:  ``
 
