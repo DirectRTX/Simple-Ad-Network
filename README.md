@@ -234,6 +234,15 @@ Whenever payments are due to someone, a new section will appear that's normally 
 
 ## Start Promoting Your Network!
 
+
+## Important Details About Payouts
+
+One of the top complaints about ad networks is publishers not getting paid out or having their earnings "adjusted" right before it's time to payout.  Sometimes that happens due to chargebacks from advertisers, sometimes that happens because the networks are just scammers.  You don't want to be one of those guys.  They make a little money short term, but they'll never experience how much they could be earning by running a network the right way.
+
+You don't have to worry about getting paid ever.  When DirectRTX sends a postback with revenue details, you're absolutely guaranteed that payment.  So, you have no reason to not pay publishers.
+
+Additionally, you should be so excited to send payouts.  Every time you send a payout, you're reminding the publisher that you exist and you reminding them that you always send payouts on time.  That's one of the most important aspects to growing a network.
+
 ## Words of Encouragement...
 
 Getting an ad network popular isn't as easy as you'd think.  It's absolutely worth it because there's a shitload of money you can make, but that doesn't mean it's easy and there will absolutely be times that you feel like giving up.
