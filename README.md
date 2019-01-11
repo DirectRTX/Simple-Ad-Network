@@ -155,9 +155,7 @@ This will download the entire repository, but you just need to upload all of the
 
 ## Changing Configuration Settings
 
-You are going to need to edit each line of your `config.php` file.
-
-Here's an explanation of what each variable is used for:
+You are going to need to edit each line of your `config.php` file.  Here's an explanation of each variable:
 
 ```
 $hostname - The name hostname for connecting to MySQL.  Normally this is "localhost". 
