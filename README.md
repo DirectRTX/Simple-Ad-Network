@@ -251,8 +251,8 @@ MyMediAds is designed specifically for attracting publishers and advertisers.  S
 And finally, use forums to promote your new network - they are great places to find publishers:
 
 - <b>DigitalPoint - https://forums.digitalpoint.com/forums/pay-per-click-advertising.20/
--  
--  </b>
+- Warrior Forum - https://www.warriorforum.com/ad-networks-cpm-cpl-display/
+- BlackHatWorld - https://www.blackhatworld.com/forums/pay-per-click.13/</b>
 
 Please note that we didn't review the rules of each forum listed above, but as long as you're just telling people about your new network and not being too spammy, most forums owners are pretty cool about it.
 
@@ -274,4 +274,4 @@ Getting an ad network popular isn't as easy as you'd think.  It's absolutely wor
 
 When you feel that way, just remember that we've already done all the heavy lifting for you.  You're never going to have to deal with the stress of managing hundreds of servers.  You don't have to worry about chargebacks from advertisers.  You don't even have to worry about your system ever going offline.  We've taken away every stress we possibly can.
 
-We did this so that you can dedicate all of your time to promoting your new ad network.
+We did this so that you can dedicate all of your time to promoting your new ad network.  But if for some reason you decide to shutdown your network.  Send all the payouts you owe to publishers and then use your DirectRTX referral link to send them directly to us.  That way you shutdown your network the right way, but still continue earning from publishers you referred to us :)
