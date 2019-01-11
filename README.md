@@ -56,4 +56,8 @@ Replace `example.com` with your domain name (without www).  Replace with `XXXXXX
 
 ### Getting Setup At CloudFlare
 
-This is the most complicate step you'll perform during the setup process - that should tell you this who process is going to be pretty damn easy.  Remember, CloudFlare and DirectRTX are the reason you'll be able to handle hundreds of millions of hits on a daily basis, so it has to be setup correctly.
+This is the most complicate step you'll perform during the setup process - that should tell you this who process is going to be pretty damn easy.  Remember, CloudFlare and DirectRTX are the reason you'll be able to handle hundreds of millions of hits on a daily basis, so it has to be setup correctly.  So, let's get started:
+
+1.  Go to CloudFlare.com and register an account.
+2.  During the registration process, you'll need to add your domain.
+3.  For your domain to be activated, you'll need to change the nameservers at your domain registrar (again) to point to the ones CloudFlare provides you with.  We do
