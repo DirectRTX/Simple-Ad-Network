@@ -21,4 +21,6 @@ Please make sure you have the following things before you get started:
 
 1.  An account at DirectRTX:  https://directrtx.com
 2.  A free account at CloudFlare:  https://www.cloudflare.com
-3.  A web hosting account.  We recommend <a href="https://www.stablehost.com">StableHost</a> but you can use any hosting company.
+3.  A web hosting account.  We recommend <a href="https://www.stablehost.com">StableHost</a>.
+
+You can use any web hosting company you want, but make sure this script is the only thing installed in the account.  It was developed using StableHost so we know it works perfectly there.
