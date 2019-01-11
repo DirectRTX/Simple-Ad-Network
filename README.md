@@ -238,9 +238,9 @@ Now that your network is setup and you understand how everything works, it's tim
 
 First, you need to submit your network to the top blogs that promote new networks.
 
-ADSWikia - https://adswikia.com/add-network/
-Adswiki - https://www.adswiki.net/add-network-program
-Make Money With URL - https://makemoneywithurl.com/submit-ad-network
+ADSWikia - https://adswikia.com/add-network/   
+Adswiki - https://www.adswiki.net/add-network-program  
+Make Money With URL - https://makemoneywithurl.com/submit-ad-network  
 
 One of the most important things to remember is what makes your network different.  You can run a general popunder network or you could focus on specific types of traffic.  For example, you could specifically try to attract adult publishers or people selling proxy traffic.  Another great way to differentiate yourself is by offering a unique payment method. For example, you could start a network that exclusively pays out in Ethereum or Monero.  It's completely up to you.
 
