@@ -47,4 +47,7 @@ Go to DirectRTX.com and create an account.  It's simple and doesn't even require
 
 Once you've created your account, you'll need to login and do 2 things.  Make sure you pay attention here:
 
-1.  Go to the "My Links" section and you'll see your unique link.  In that link is a 6 digit number.  Write down that number.  You're going to be using it in the next section.
+1.  Go to the "My Links" section and you'll see your unique link.  In that link is a 6 digit number - write it down.
+2.  Go to https://directrtx.com/postback-settings.php and enter the following URL:
+
+    https://directrtx.com/postback-settings.php
