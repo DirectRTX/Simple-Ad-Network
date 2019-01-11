@@ -248,6 +248,14 @@ These blogs will take days (or weeks) to list your network.  So, let's move on t
 
 MyMediAds is designed specifically for attracting publishers and advertisers.  So, you should be consistently posting advertisements here and bumping your existing ads to the top.  You can also respond to other people's ads, chat with them in Skype, and start networking to grow your network.
 
+And finally, use forums to promote your new network - they are great places to find publishers:
+
+-  
+-  
+-  
+
+Please note that we didn't review the rules of each forum listed above, but as long as you're just telling people about your new network and not being too spammy, most forums owners are pretty cool about it.
+
 One of the most important things to remember is what makes your network different.  You can run a general popunder network or you could focus on specific types of traffic.  For example, you could specifically try to attract adult publishers or people selling proxy traffic.  Another great way to differentiate yourself is by offering a unique payment method. For example, you could start a network that exclusively pays out in Ethereum or Monero.  It's completely up to you.
 
 ## Important Details About Payouts
