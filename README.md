@@ -212,9 +212,9 @@ Below we'll explain each section of the Admin Panel.
 
 There are 6 stats boxes, here's what they mean:
 
-<u>Active Members</u> - Enter details here.  
-<u>Total Members</u> - Enter details here.  
-<u>Today's Revenue</u> - Enter details here.  
+<u>Active Members</u> - Members that have either registered or sent traffic in the last 24 hours.
+<u>Total Members</u> - The total amount of member accounts (active + inactive) that are in your system.
+<u>Today's Revenue</u> - The total amount of revenue that's been earned today (revenue, not profit).  
 
 <u>Total Revenue</u> - Enter details here.  
 <u>Member Earnings</u> - Enter details here.  
