@@ -241,7 +241,7 @@ One of the top complaints about ad networks is publishers not getting paid out o
 
 You don't have to worry about getting paid ever.  When DirectRTX sends a postback with revenue details, you're absolutely guaranteed that payment.  So, you have no reason to not pay publishers.
 
-Additionally, you should be so excited to send payouts.  Every time you send a payout, you're reminding the publisher that you exist and you reminding them that you always send payouts on time.  That's one of the most important aspects to growing a network.
+Additionally, you should be so excited to send payouts.  Every time you send a payout, you're reminding the publisher that you exist and you reminding them that you always send payouts on time.  That's one of the most important aspects to growing a network.  The entire reason publishers are sending you traffic is for these payments.
 
 ## Words of Encouragement...
 
