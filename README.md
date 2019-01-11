@@ -159,10 +159,10 @@ You are going to need to edit each line of your `config.php` file.
 
 Here's an explanation of what each variable is used for:
 
-```$hostname = "localhost";
+`$hostname = "localhost";
 $username = "username";
 $password = "password";
-$database = "myDB";```
+$database = "myDB";`
 
 Now go to `http://example.com/install.php` to confirm that everything is properly installed.  If everything is working, you'll see a message letting you know.  If the files aren't in the proper place or the script can't connect to your database, you'll get an error message.  If you get an error message, it should be self-explanatory.
 
