@@ -252,7 +252,26 @@ And finally, use forums to promote your new network - they are great places to f
 
 - <b>DigitalPoint - https://forums.digitalpoint.com/forums/pay-per-click-advertising.20/
 - Warrior Forum - https://www.warriorforum.com/ad-networks-cpm-cpl-display/
-- BlackHatWorld - https://www.blackhatworld.com/forums/pay-per-click.13/</b>
+- BlackHatWorld - https://www.blackhatworld.com/forums/pay-per-click.13/
+- TheBot.net - https://thebot.net/forums/traffic-cash.153/
+- WickedFire - https://www.wickedfire.com/traffic-and-content/
+- V7N Forum - http://www.v7n.com/forums/webmaster-revenue/
+- Affilorama - https://www.affilorama.com/forum/ppc/
+- SEO Chat - http://forums.seochat.com/other-ppc-37/
+- BitcoinTalk - https://bitcointalk.org/index.php?board=84.0
+- DNForum - https://www.dnforum.com/forums/monetization-of-domain-names.800/
+- AffiliateFix - https://www.affiliatefix.com/forums/payperclick/
+- Making Money With Android - http://forums.makingmoneywithandroid.com/advertising-networks/
+- IMSEOLab - https://www.imseolab.net/Forum-Adult-PPV-PPC-Media-Buying-Mobile-etc
+- BlackHatTeam - http://www.blackhatteam.com/forums/pay-per-click-ppc.135/
+- CPA Elites - https://www.cpaelites.com/Forum-Main-CPA-Discussions-Elites-Helpdesk
+- DreamTeamMoney - http://www.dreamteammoney.com/index.php?showforum=870
+- Money Maker Discussion - http://www.moneymakerdiscussion.com/forums/traffic-depot-ppc-ppv-media-buys.325/
+- TopGoldForum - https://topgoldforum.com/forum/38-generate-traffic/
+- CPA Hero - http://www.cpahero.com/Forum-Not-CPA-PTC-PPC-PPV-PTP-CPM-General-Discussions-Network-Reviews
+- Black Hat SEM - https://www.blackhatsem.com/Forum-SEO-Internet-Marketing-Social-Media-Tools-Software-Bots
+- Best Blackhat Forum - 
+- Hack Forums - </b>
 
 Please note that we didn't review the rules of each forum listed above, but as long as you're just telling people about your new network and not being too spammy, most forums owners are pretty cool about it.  In general, you should just create one thread in each forum we linked to above.  And make sure you check it on a daily basis - every time you respond to someone, the thread will bump to the top of the forum - which gets a lot more eyes on it.
 
