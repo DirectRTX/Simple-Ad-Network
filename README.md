@@ -238,7 +238,7 @@ Now that your network is setup and you understand how everything works, it's tim
 
 First, you need to submit your network to the top blogs that promote new networks.
 
-<b- >ADSWikia - https://adswikia.com/add-network/   
+- <b>ADSWikia - https://adswikia.com/add-network/   
 - Adswiki - https://www.adswiki.net/add-network-program  
 - Make Money With URL - https://makemoneywithurl.com/submit-ad-network</b>  
 
