@@ -149,6 +149,10 @@ Congrats!  Your database has been setup and you'll never have to mess with it ag
 
 ## Uploading Your Website's Files
 
+Now it's time to get your website's files upload.  You can download this Github repository by <a href="https://github.com/DirectRTX/Simple-Traffic-Network/archive/master.zip">clicking here</a>.
+
+This will download the entire repository, but you just need to upload all of the files from the `UPLOAD` directory to your `public_html` folder.  Please note, you don't need to upload the `UPLOAD` directory itself, just upload all of the files that are inside of it.
+
 ## Changing Configuration Settings
 
 ## Automation With Cron Jobs
