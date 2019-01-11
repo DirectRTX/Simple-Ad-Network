@@ -143,6 +143,8 @@ We're going to assume that you're using a web hosting company that uses cPanel. 
 
 You'll need to login to your control panel and go to MySQL Databases.  Create a database AND add a user to the database.  Adding a user is very important.  If you don't add one, you won't be able to connect to the database.
 
+Now, go to phpMyAdmin (in cPanel) and select the database you just created.  Once your database has been selected, click on "Import" in the top navigation.  Upload the `database.sql` file that's downloadable from above.
+
 ## Uploading Your Website's Files
 
 ## Changing Configuration Settings
