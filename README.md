@@ -164,23 +164,28 @@ These are your MySQL settings and are used on every page to connect to your data
 - $password = The password for the above MySQL user.  Not your cPanel password. 
 - $database = The name of your MySQL database.  Case sensitive. 
 
-These are the keys you've generated.  We suggest that you make them 15 characters each.  Do not use special characters.  These fields are case sensitive.
+These are the keys you've generated.  We suggest that you make them 15 characters each.  Do not use special characters.  These fields are case sensitive.  You should make each key different.
 
 - $admin_key = 
 - $postback_key = 
 - $cronjob_key = 
+
+These are the settings used on your website, such as the company name and homepage text.
 
 - $directrtx_id = 
 - $company_name = 
 - $domain_name = 
 - $email_address = 
 - $color_scheme = 
-
 - $homepage_text = 
 - $payment_text = 
 
+These are the percents you share with publishers and affiliates.
+
 - $publisher_percent = 
 - $affiliate_percent = 
+
+You will need to create a free account at Google's reCAPTCHA service.  You must select reCAPTCHA v2 and the Checkbox option.  Enter your domain when asked for it during the signup process.  You can enter whatever you want as the title.
 
 - $recaptcha_public = 
 - $recaptcha_private = 
