@@ -159,37 +159,37 @@ You are going to need to edit each line of your `config.php` file.  Here's an ex
 
 These are your MySQL settings and are used on every page to connect to your database.
 
-- $hostname = The name hostname for connecting to MySQL.  Normally this is "localhost". 
-- $username = The user you created and added to your MySQL database. 
-- $password = The password for the above MySQL user.  Not your cPanel password. 
-- $database = The name of your MySQL database.  Case sensitive. 
+- <b>$hostname =</b> The name hostname for connecting to MySQL.  Normally this is "localhost". 
+- <b>$username =</b> The user you created and added to your MySQL database. 
+- <b>$password =</b> The password for the above MySQL user.  Not your cPanel password. 
+- <b>$database =</b> The name of your MySQL database.  Case sensitive. 
 
 These are the keys you've generated.  We suggest that you make them 15 characters each.  Do not use special characters.  These fields are case sensitive.  You should make each key different.
 
-- $admin_key = 
-- $postback_key = 
-- $cronjob_key = 
+- <b>$admin_key =</b> 
+- <b>$postback_key =</b> 
+- <b>$cronjob_key =</b> 
 
 These are the settings used on your website, such as the company name and homepage text.
 
-- $directrtx_id = 
-- $company_name = 
-- $domain_name = 
-- $email_address = 
-- $color_scheme = 
-- $homepage_text = 
-- $payment_text = 
+- <b>$directrtx_id =</b> 
+- <b>$company_name =</b> 
+- <b>$domain_name =</b> 
+- <b>$email_address =</b> 
+- <b>$color_scheme =</b> 
+- <b>$homepage_text =</b> 
+- <b>$payment_text =</b> 
 
 These are the percents you share with publishers and affiliates.
 
-- $publisher_percent = 
-- $affiliate_percent = 
+- <b>$publisher_percent =</b> 
+- <b>$affiliate_percent =</b> 
 
 You will need to create a free account at Google's reCAPTCHA service.  You must select reCAPTCHA v2 and the Checkbox option.  Enter your domain when asked for it during the signup process.  You can enter whatever you want as the title.
 
-- $recaptcha_public = 
-- $recaptcha_private = 
-- $recaptcha_theme = 
+- <b>$recaptcha_public =</b> 
+- <b>$recaptcha_private =</b> 
+- <b>$recaptcha_theme =</b> 
 
 Now go to `http://example.com/install.php` to confirm that everything is properly installed.  If everything is working, you'll see a message letting you know.  If the files aren't in the proper place or the script can't connect to your database, you'll get an error message.  If you get an error message, it should be self-explanatory.
 
