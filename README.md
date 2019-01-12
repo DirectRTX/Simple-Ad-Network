@@ -68,21 +68,19 @@ This is the most complicate step you'll perform during the setup process - that 
 
 3.  For your domain to be activated, you'll need to change the nameservers at your domain registrar (again) to point to the ones CloudFlare provides you with.  We first pointed them to your hosting company so CloudFlare can grab the correct DNS records and automatically point to your domain to your hosting company as well.
 
-Once you've completed the 3 steps above, your account and domain are setup at CloudFlare.  But it doesn't end there.  To make the magic happen, we'll need to do 2 more things:  create a couple of CNAME records and setup Page Rules.
+Once you've completed the 3 steps above, your account and domain are setup at CloudFlare.  But it doesn't end there.  To make the magic happen, we'll need to do 2 more things:  create a CNAME record and setup Page Rules.
 
 <b>How to Create CNAME Records</b>
 
 Select your domain and go to the "DNS" tab in CloudFlare's dashboard.
 
-Each record you add has the option select or enter 4 fields.  Add these two records:
+When adding a record, you have the option to select or enter 4 fields.  Add this record:
 
-`CNAME` `go` `x.directrtx.com` `Automatic TTL`
+`CNAME` `go` `directadserver.com` `Automatic TTL`
 
-`CNAME` `traffic` `x.directrtx.com` `Automatic TTL`
+After it is added, make sure there's an orange cloud next to it.
 
-After these are added, make sure there's an orange cloud next to each of them.
-
-You're done setting up the required DNS records.  It really wasn't that difficult was it?
+You're done setting up the required DNS record.  It really wasn't that difficult was it?
 
 <b>How to Create Page Rules</b>
 
@@ -91,13 +89,13 @@ Go to the Page Rules tab in CloudFlare's dashboard.
 You're going to create 3 pages - all of them are going to use the `Forwarding URL` setting.  Also, they will all use the `Status Code` 301. Now that you know those 2 settings are used by all 3 page rules, create these:
 
 <b>URL Match Line #1:</b> `*go.example.com/*/?fb=*`  
-<b>Destination URL #1:</b>  `http://traffic.example.com/?subid=[DIRECTRTX-ID]&clickid=$2&fb=$3`
+<b>Destination URL #1:</b>  `http://directadserver.com/?subid=[DIRECTRTX-ID]&clickid=$2&fb=$3`
 
 <b>URL Match Line #2:</b> `*go.example.com/*/*`  
-<b>Destination URL #2:</b>  `http://traffic.example.com/?subid=[DIRECTRTX-ID]&clickid=$2&fb=[FALLBACK-URL]`
+<b>Destination URL #2:</b>  `http://directadserver.com/?subid=[DIRECTRTX-ID]&clickid=$2&fb=[FALLBACK-URL]`
 
 <b>URL Match Line #3:</b> `*go.example.com/*`  
-<b>Destination URL #3:</b>  `http://traffic.example.com/?subid=[DIRECTRTX-ID]&fb=[FALLBACK-URL]`
+<b>Destination URL #3:</b>  `http://directadserver.com/?subid=[DIRECTRTX-ID]&fb=[FALLBACK-URL]`
 
 Here's a description of what each Page Rule is doing:
 
