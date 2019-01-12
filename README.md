@@ -111,6 +111,8 @@ You will need to replace these three things in each of the rules above (while yo
 `[DIRECTRTX-ID]` - Replace this with your 6-digit ID number that you got earlier from DirectRTX's dashboard.  
 `[FALLBACK-URL]` - Replace this with YOUR fallback URL - where you want unsold traffic to go to.
 
+It is VERY important that the Page Rules are listed in CloudFlare's dashboard in the same order we have them listed above.  If they aren't your system will NOT work properly.  You can rearrange them by dragging the page rules in their dashboard.
+
 We're going to talk more about the Fallback URL in the next section.  Please read it carefully.
 
 But you're done setting up CloudFlare at this point!  Woohoo!
