@@ -162,6 +162,26 @@ $hostname - The name hostname for connecting to MySQL.  Normally this is "localh
 $username = The user you created and added to your MySQL database. 
 $password = The password for the above MySQL user.  Not your cPanel password. 
 $database = The name of your MySQL database.  Case sensitive. 
+
+$admin_key = 
+$postback_key = 
+$cronjob_key = 
+
+$directrtx_id = 
+$company_name = 
+$domain_name = 
+$email_address = 
+$color_scheme = 
+
+$homepage_text = 
+$payment_text = 
+
+$publisher_percent = 
+$affiliate_percent = 
+
+$recaptcha_public = 
+$recaptcha_private = 
+$recaptcha_theme = 
 ```
 
 Now go to `http://example.com/install.php` to confirm that everything is properly installed.  If everything is working, you'll see a message letting you know.  If the files aren't in the proper place or the script can't connect to your database, you'll get an error message.  If you get an error message, it should be self-explanatory.
