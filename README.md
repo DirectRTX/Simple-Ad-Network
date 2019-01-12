@@ -179,7 +179,7 @@ These are the settings used on your website, such as the company name and homepa
 - <b>$website_color =</b> You can enter a hex code (#000000) here or a color (black).
 - <b>$text_color =</b> You can enter a hex code (#FFFFFF) here or a color (white).
 - <b>$homepage_text =</b> This is the text that will be used on the website's homepage.
-- <b>$payment_text =</b> This is the text used when requesting payment details (PayPal Email, Bitcoin Address, etc).
+- <b>$payment_text =</b> The text used when requesting payment details (PayPal Email, Bitcoin Address, etc).
 
 These are the percents you share with publishers and affiliates.
 
