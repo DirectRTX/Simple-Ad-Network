@@ -187,9 +187,9 @@ These are the percents you share with publishers and affiliates.
 
 You will need to create a free account at Google's reCAPTCHA service.  You must select reCAPTCHA v2 and the Checkbox option.  Enter your domain when asked for it during the signup process.  You can enter whatever you want as the title.
 
-- <b>$recaptcha_public =</b> 
-- <b>$recaptcha_private =</b> 
-- <b>$recaptcha_theme =</b> 
+- <b>$recaptcha_public =</b> This is where you enter the "Site key" Google provides you.
+- <b>$recaptcha_private =</b> This is where you enter the "Secret key" Google provides you.
+- <b>$recaptcha_theme =</b> You can enter "light" or "dark" here - depending on your color scheme.
 
 Now go to `http://example.com/install.php` to confirm that everything is properly installed.  If everything is working, you'll see a message letting you know.  If the files aren't in the proper place or the script can't connect to your database, you'll get an error message.  If you get an error message, it should be self-explanatory.
 
