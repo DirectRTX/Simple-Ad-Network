@@ -182,8 +182,8 @@ These are the settings used on your website, such as the company name and homepa
 
 These are the percents you share with publishers and affiliates.
 
-- <b>$publisher_percent =</b> 
-- <b>$affiliate_percent =</b> 
+- <b>$publisher_percent =</b> This is the percent of revenue you want to share with publishers.  We suggest sharing 60-80% of revenue.
+- <b>$affiliate_percent =</b> This is the percent of the publisher's revenue that an affiliate earns.  Normally 10% is used as the industry standard.
 
 You will need to create a free account at Google's reCAPTCHA service.  You must select reCAPTCHA v2 and the Checkbox option.  Enter your domain when asked for it during the signup process.  You can enter whatever you want as the title.
 
