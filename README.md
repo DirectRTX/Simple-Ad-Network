@@ -174,14 +174,16 @@ These are the settings used on your website, such as the company name and homepa
 
 - <b>$directrtx_id =</b> This is your 6-digit ID number from DirectRTX's dashboard.
 - <b>$company_name =</b> This is your company name and used throughout the website and in emails.
-- <b>$domain_name =</b> Enter your domain name here, do not use "www." here or anywhere else.
+- <b>$domain_name =</b> Enter your domain name here, do not use "www" here or anywhere else.
 - <b>$email_address =</b> Enter the email address you want emails to be sent from.
-- <b>$color_scheme =</b> 
-- <b>$homepage_text =</b> 
+- <b>$website_color =</b> You can enter a hex code (#000000) here or a color (black).
+- <b>$text_color =</b> You can enter a hex code (#FFFFFF) here or a color (white).
+- <b>$homepage_text =</b> This is the text that will be used on the website's homepage.
 - <b>$payment_text =</b> 
 
 These are the percents you share with publishers and affiliates.
 
+- <b>$holding_period =</b> This is the amount of time commissions are pending.  Since DirectRTX pays on a NET-30 basis, we suggest you set this variable to "45".  This will give you 15 days to pay publishers after you receive the payment from DirectRTX.
 - <b>$publisher_percent =</b> This is the percent of revenue you want to share with publishers.  We suggest sharing 60-80% of revenue.  But you can feel free to set it to whatever you want.
 - <b>$affiliate_percent =</b> This is the percent of the publisher's revenue that an affiliate earns.  Normally 10% is used as the industry standard, but once again, feel free to set it to whatever you want.
 
