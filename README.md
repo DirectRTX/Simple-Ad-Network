@@ -157,36 +157,34 @@ This will download the entire repository, but you just need to upload all of the
 
 You are going to need to edit each line of your `config.php` file.  Here's an explanation of each variable:
 
-```
 These are your MySQL settings and are used on every page to connect to your database.
 
-$hostname = The name hostname for connecting to MySQL.  Normally this is "localhost". 
-$username = The user you created and added to your MySQL database. 
-$password = The password for the above MySQL user.  Not your cPanel password. 
-$database = The name of your MySQL database.  Case sensitive. 
+- $hostname = The name hostname for connecting to MySQL.  Normally this is "localhost". 
+- $username = The user you created and added to your MySQL database. 
+- $password = The password for the above MySQL user.  Not your cPanel password. 
+- $database = The name of your MySQL database.  Case sensitive. 
 
 These are the keys you've generated.  We suggest that you make them 15 characters each.  Do not use special characters.  These fields are case sensitive.
 
-$admin_key = 
-$postback_key = 
-$cronjob_key = 
+- $admin_key = 
+- $postback_key = 
+- $cronjob_key = 
 
-$directrtx_id = 
-$company_name = 
-$domain_name = 
-$email_address = 
-$color_scheme = 
+- $directrtx_id = 
+- $company_name = 
+- $domain_name = 
+- $email_address = 
+- $color_scheme = 
 
-$homepage_text = 
-$payment_text = 
+- $homepage_text = 
+- $payment_text = 
 
-$publisher_percent = 
-$affiliate_percent = 
+- $publisher_percent = 
+- $affiliate_percent = 
 
-$recaptcha_public = 
-$recaptcha_private = 
-$recaptcha_theme = 
-```
+- $recaptcha_public = 
+- $recaptcha_private = 
+- $recaptcha_theme = 
 
 Now go to `http://example.com/install.php` to confirm that everything is properly installed.  If everything is working, you'll see a message letting you know.  If the files aren't in the proper place or the script can't connect to your database, you'll get an error message.  If you get an error message, it should be self-explanatory.
 
