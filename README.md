@@ -172,10 +172,10 @@ These are the keys you've generated.  We suggest that you make them 15 character
 
 These are the settings used on your website, such as the company name and homepage text.
 
-- <b>$directrtx_id =</b> 
-- <b>$company_name =</b> 
-- <b>$domain_name =</b> 
-- <b>$email_address =</b> 
+- <b>$directrtx_id =</b> This is your 6-digit ID number from DirectRTX's dashboard.
+- <b>$company_name =</b> This is your company name and used throughout the website and in emails.
+- <b>$domain_name =</b> Enter your domain name here, do not use "www." here or anywhere else.
+- <b>$email_address =</b> Enter the email address you want emails to be sent from.
 - <b>$color_scheme =</b> 
 - <b>$homepage_text =</b> 
 - <b>$payment_text =</b> 
