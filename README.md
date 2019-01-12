@@ -166,9 +166,9 @@ These are your MySQL settings and are used on every page to connect to your data
 
 These are the keys you've generated.  We suggest that you make them 15 characters each.  Do not use special characters.  These fields are case sensitive.  You should make each key different.
 
-- <b>$admin_key =</b> 
-- <b>$postback_key =</b> 
-- <b>$cronjob_key =</b> 
+- <b>$admin_key =</b> This is the secret key you'll use to access the admin area.
+- <b>$postback_key =</b> This is the secret key we use for sending you postback information.
+- <b>$cronjob_key =</b> This is the secret key that's used to run your cron jobs.
 
 These are the settings used on your website, such as the company name and homepage text.
 
