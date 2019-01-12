@@ -158,10 +158,14 @@ This will download the entire repository, but you just need to upload all of the
 You are going to need to edit each line of your `config.php` file.  Here's an explanation of each variable:
 
 ```
-$hostname - The name hostname for connecting to MySQL.  Normally this is "localhost". 
+These are your MySQL settings and are used on every page to connect to your database.
+
+$hostname = The name hostname for connecting to MySQL.  Normally this is "localhost". 
 $username = The user you created and added to your MySQL database. 
 $password = The password for the above MySQL user.  Not your cPanel password. 
 $database = The name of your MySQL database.  Case sensitive. 
+
+These are the keys you've generated.  We suggest that you make them 15 characters each.  Do not use special characters.  These fields are case sensitive.
 
 $admin_key = 
 $postback_key = 
