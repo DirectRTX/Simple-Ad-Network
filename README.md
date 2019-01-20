@@ -245,9 +245,9 @@ Total Members - The total amount of members that have created an account in your
 Pending Payments - The total amount of payments you need to send out.  Will show $0.00 except on pay day.
 
 Daily Traffic - The total amount of visitors that have been purchased today (today - not over the past 24 hours).  
-Daily Profit -  
-Daily Revenue -  
-Daily CPM Rate -  
+Daily Profit - The total amount of profit you, as the network owner have earned today (today - not over the past 24 hours).  
+Daily Revenue -  (today - not over the past 24 hours).  
+Daily CPM Rate -  (today - not over the past 24 hours).  
 
 Total Traffic -  
 Total Profit -  
