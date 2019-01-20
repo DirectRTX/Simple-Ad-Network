@@ -43,7 +43,7 @@ Please don't email asking for suggestions, we don't care what you name your netw
 
 ### Create A Web Hosting Account
 
-Go to NameCheap and signup for the cheapest plan.  After creating your account, they will provide you with your nameservers.  Nameservers are used to point a domain name to the server it's hosted.  So, go back to the company you registered your domain name with and change the nameservers for your domain to the ones provided by NameCheap.
+Go to NameCheap and signup for the Business plan.  After creating your account, they will provide you with your nameservers.  Nameservers are used to point a domain name to the server it's hosted.  So, go back to the company you registered your domain name with and change the nameservers for your domain to the ones provided by NameCheap.
 
 ### Signup at DirectRTX.com
 
