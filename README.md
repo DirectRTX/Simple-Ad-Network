@@ -89,13 +89,13 @@ Go to the Page Rules tab in CloudFlare's dashboard.
 You're going to create 3 pages - all of them are going to use the `Forwarding URL` setting.  Also, they will all use the `Status Code` 301. Now that you know those 2 settings are used by all 3 page rules, create these:
 
 <b>URL Match Line #1:</b> `*go.example.com/*/?fb=*`  
-<b>Destination URL #1:</b>  `http://directadserver.com/?subid=[DIRECTRTX-ID]&clickid=$2&fb=$3`
+<b>Destination URL #1:</b>  `http://directadserver.com/[DIRECTRTX-ID]/?subid=$2&fb=$3`
 
 <b>URL Match Line #2:</b> `*go.example.com/*/*`  
-<b>Destination URL #2:</b>  `http://directadserver.com/?subid=[DIRECTRTX-ID]&clickid=$2&fb=[FALLBACK-URL]`
+<b>Destination URL #2:</b>  `http://directadserver.com/[DIRECTRTX-ID]/?subid=$2&fb=[FALLBACK-URL]`
 
 <b>URL Match Line #3:</b> `*go.example.com/*`  
-<b>Destination URL #3:</b>  `http://directadserver.com/?subid=[DIRECTRTX-ID]&fb=[FALLBACK-URL]`
+<b>Destination URL #3:</b>  `http://directadserver.com/[DIRECTRTX-ID]/?subid=$2&fb=[FALLBACK-URL]`
 
 Here's a description of what each Page Rule is doing:
 
@@ -105,7 +105,7 @@ Here's a description of what each Page Rule is doing:
 
 You will need to replace these three things in each of the rules above (while you're adding them):
 
-`example.com` - Replace this with your own domain name.  Leave the `go.` and `traffic.` parts alone.  
+`example.com` - Replace this with your own domain name.  Do not remove the `go.` subdomain.  
 `[DIRECTRTX-ID]` - Replace this with your 6-digit ID number that you got earlier from DirectRTX's dashboard.  
 `[FALLBACK-URL]` - Replace this with YOUR fallback URL - where you want unsold traffic to go to.
 
