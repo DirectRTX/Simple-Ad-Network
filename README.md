@@ -237,7 +237,7 @@ Understanding how the Admin Dashboard works is extremely important because it al
 
 <b>Top Stats Section</b>
 
-There are 9 stats boxes, here's what they mean:
+There are 12 stats boxes, here's what they mean:
 
 Active Members - The number of members that have either signed up or sent traffic in the last 24 hours.  
 Earning Members - The total number of members that have ever sent traffic to your ad network.  
@@ -249,10 +249,10 @@ Daily Profit - The total amount of profit you, as the network owner, have earned
 Daily Revenue - The total amount of revenue earned by your network today (today - not the past 24 hours).  
 Daily CPM Rate - The network's overall CPM rate for today (today - not the past 24 hours).  
 
-Total Traffic -  
-Total Profit -  
-Total Revenue -  
-Total CPM Rate -  
+Total Traffic - The total amount of visitors that have been purchased in the lifetime of your network.  
+Total Profit - The total amount of profit you have earned in the lifetime of your network.  
+Total Revenue - The total amount of revenue earned in the lifetime of your network.  
+Total CPM Rate - The network's overall CPM rate in the lifetime of your network.  
 
 <b>Member's List Section</b>
 
