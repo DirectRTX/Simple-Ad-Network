@@ -56,7 +56,7 @@ Once you've created your account, you'll need to login and do 2 things.  Make su
 
 ```http://example.com/postback.php?subid=[subid]&revenue=[revenue]&secretkey=XXXXXXXXXX```
 
-Replace `example.com` with your domain name (without www).  Replace with `XXXXXXXXXX` with a unique 15-digit code.  You can use <a target="_blank" href="https://passwordsgenerator.net/">PasswordGenerator.net</a> to generate this code - just make sure it's only letters and numbers, no special characters.  The unique code is to make sure nobody can send fake postbacks to credit their account.  Do'nt share it with anyone.
+Replace `example.com` with your domain name (without www).  Replace with `XXXXXXXXXX` with a unique 15-digit code.  You can use <a target="_blank" href="https://passwordsgenerator.net/">PasswordGenerator.net</a> to generate this code - just make sure it's only letters and numbers, no special characters.  The unique code is to make sure nobody can send fake postbacks to credit their account.  Don't share it with anyone.
 
 ### Getting Setup At CloudFlare
 
