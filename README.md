@@ -76,7 +76,7 @@ Select your domain and go to the "DNS" tab in CloudFlare's dashboard.
 
 When adding a record, you have the option to select or enter 4 fields.  Add this record:
 
-`CNAME` `go` `whitelabel.directrtx.com` `Automatic TTL`
+`CNAME` `go` `directadserver.com` `Automatic TTL`
 
 After it is added, make sure there's an orange cloud next to it.
 
