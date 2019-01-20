@@ -223,7 +223,7 @@ The Member's Area is pretty self-explanatory.  You can create a test account to 
 
 You'll find that it contains almost all of the same features as DirectRTX.  The only features it doesn't have is the ability to use SubIDs or ClickIDs - but that's okay.  Most publishers don't use those features, they are primarily used by ad networks.
 
-One important note that applies to both the Member's Area and Admin Dashboard:  anywhere you see traffic counts is referring to the amount of traffic purchased, not the total amount sent by a publisher.  Any traffic not purchased is sent to the fallback URL.
+One important note that applies to both the Member's Area and Admin Dashboard:  anywhere you see traffic counts is referring to the amount of traffic purchased, not the total amount sent by a publisher.  Any traffic not purchased is sent to the publisher's fallback URL if they're using one or your fallback URL if they aren't using one.
 
 ## How To Use The Admin Dashboard
 
