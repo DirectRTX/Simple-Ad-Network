@@ -233,7 +233,7 @@ You can access the Admin Dashboard here:
 
 Replace `example.com` with your domain and `XXXXXXXXXX` with whatever you set the variable `admin_key` to in your `config.php` file.  This secret key is used to prevent anyone from access your admin dashboard.  However, even if someone gained access to it, there's very little damage they could actually to.  The admin area was mainly designed for monitoring.
 
-Below we'll explain each section of the Admin Panel.
+Understanding how the Admin Dashboard works is extremely important because it allows you to monitor everything that's happening in your network.  So, we will go into great detail explaining each part of it below.
 
 <b>Top Stats Section</b>
 
