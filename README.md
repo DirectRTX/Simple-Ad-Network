@@ -239,10 +239,10 @@ Understanding how the Admin Dashboard works is extremely important because it al
 
 There are 9 stats boxes, here's what they mean:
 
-Active Members -  
-Earning Members -  
-Total Members -  
-Pending Payments -  
+Active Members - The number of members that have either signed up or sent traffic in the last 24 hours.  
+Earning Members - The total number of members that have ever sent traffic to your ad network.  
+Total Members - The total amount of members that have created an account in your network at any time.  
+Pending Payments - The total amount of payments you need to send out.  Will show $0.00 except on pay day.
 
 Daily Traffic -  
 Daily Profit -  
