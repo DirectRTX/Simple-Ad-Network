@@ -243,14 +243,12 @@ There are 12 stats boxes, here's what they mean:
 - <b>Earning Members -</b> The total number of members that have ever sent traffic to your ad network.
 - <b>Total Members -</b> The total amount of members that have created an account in your network at any time.
 - <b>Pending Payments -</b> The total amount of payments you need to send out.  Will show $0.00 except on pay day.
-
 &nbsp;
 
 - <b>Daily Traffic -</b> The total amount of visitors that have been purchased today (today - not the past 24 hours).
 - <b>Daily Profit -</b> The total amount of profit you, as the network owner, have earned today (today - not the past 24 hours).
 - <b>Daily Revenue -</b> The total amount of revenue earned by your network today (today - not the past 24 hours).
 - <b>Daily CPM Rate -</b> The network's overall CPM rate for today (today - not the past 24 hours).
-
 &nbsp;
 
 - <b>Total Traffic -</b> The total amount of visitors that have been purchased in the lifetime of your network.
