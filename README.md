@@ -266,9 +266,9 @@ Here's a breakdown of each column in this table:
 - <b>Email -</b> The publisher's login email address - this may be different than their payment email.
 - <b>Traffic -</b> The amount of traffic that's been purchased from this publisher.
 - <b>CPM Rate -</b> The average CPM rate we're purchasing traffic from this publisher at.
-- <b>Revenue -</b> 
-- <b>Earnings -</b> 
-- <b>Profit -</b> 
+- <b>Revenue -</b> The total amount of revenue this publisher has generated for your network.
+- <b>Earnings -</b> The total amount the publisher has earned (including current and paid balances).
+- <b>Profit -</b> The total amount of profit you've earned from this publisher in their lifetime.
 - <b>Activity -</b> This is the last time we notified your network that traffic has been purchased from this publisher.
 
 <b>Daily Stats Section</b>
