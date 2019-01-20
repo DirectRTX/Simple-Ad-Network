@@ -260,14 +260,14 @@ This section lists all of your members that have ever earned money.  This list o
 
 Here's a breakdown of each column in this table:
 
-- <b>ID -</b> 
-- <b>Email - </b> 
-- <b>Traffic - </b> 
-- <b>CPM Rate - </b> 
-- <b>Revenue - </b> 
-- <b>Earnings - </b> 
-- <b>Profit - </b> 
-- <b>Activity - </b> 
+- <b>ID -</b> The publisher's ID number in the database - also, used in their direct link.
+- <b>Email -</b> The publisher's login email address - this may be different than their payment email.
+- <b>Traffic -</b> 
+- <b>CPM Rate -</b> 
+- <b>Revenue -</b> 
+- <b>Earnings -</b> 
+- <b>Profit -</b> 
+- <b>Activity -</b> 
 
 <b>Daily Stats Section</b>
 
@@ -275,11 +275,11 @@ This section just shows your network's stats over the past 30 days.  There's not
 
 - <b>Date -</b> 
 - <b>Members -</b> 
-- <b>Traffic - </b> 
-- <b>CPM Rate - </b> 
-- <b>Revenue - </b> 
-- <b>Earnings - </b> 
-- <b>Profit - </b> 
+- <b>Traffic -</b> 
+- <b>CPM Rate -</b> 
+- <b>Revenue -</b> 
+- <b>Earnings -</b> 
+- <b>Profit -</b> 
 
 <b>Hidden Payments Section</b>
 
