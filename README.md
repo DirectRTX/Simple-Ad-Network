@@ -1,5 +1,5 @@
-# Simple Traffic Network
-Simple Traffic Network is a free, open source PHP script to start your own traffic network.  This script was developed by the team at <b><a target="_blank" href="https://directrtx.com">DirectRTX</a></b> to allow anyone to start their own popunder network or media buying system.
+# Simple Ad Network
+Simple Ad Network is a free, open source PHP script to start your own ad network.  This script was developed by the team at <b><a target="_blank" href="https://directrtx.com">DirectRTX</a></b> to allow anyone to start their own popunder network or media buying system.
 
 Our #1 goal when developing this script was to allow anyone to start their own network for less than $10/month and make sure they never have to spend more than that until they're earning at least $5,000/day.  Seriously, you should be making at least $5000/day before you have to invest more than $10/month for hosting.
 
