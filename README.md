@@ -31,7 +31,7 @@ Please make sure you have the following things before you get started:
 4.  A free account at <a target="_blank" href="https://www.cloudflare.com">CloudFlare</a>.  No upgrades needed.
 5.  A <a target="_blank" href="https://www.paypal.com/">PayPal</a> account.  Used for payments from DirectRTX.
 
-You can use any web hosting company you want, but make sure this script is the only thing installed in the account.  It was developed using StableHost so we know it works perfectly there.  Just make sure that whatever hosting company you use has PHP and MySQL (or MariaDB) available - also, it needs to run on Apache if possible.
+You can use any web hosting company you want, but make sure this script is the only thing installed in the account.  It was developed using NameCheap so we know it works perfectly there.  Just make sure that whatever hosting company you use has PHP and MySQL (or MariaDB) available - also, it needs to run on Apache if possible.
 
 So, let's get started setting up everything below.  We'll use our suggestions as examples, but feel free to use whatever domain registrar and hosting company that you want.
 
@@ -43,7 +43,7 @@ Please don't email asking for suggestions, we don't care what you name your netw
 
 ### Create A Web Hosting Account
 
-Go to StableHost and signup for the cheapest plan.  After creating your account, they will provide you with your nameservers.  Nameservers are used to point a domain name to the server it's hosted.  So, go back to the company you registered your domain name with and change the nameservers for your domain to the ones provided by StableHost.
+Go to NameCheap and signup for the cheapest plan.  After creating your account, they will provide you with your nameservers.  Nameservers are used to point a domain name to the server it's hosted.  So, go back to the company you registered your domain name with and change the nameservers for your domain to the ones provided by NameCheap.
 
 ### Signup at DirectRTX.com
 
