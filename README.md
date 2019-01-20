@@ -239,20 +239,20 @@ Understanding how the Admin Dashboard works is extremely important because it al
 
 There are 12 stats boxes, here's what they mean:
 
-Active Members - The number of members that have either signed up or sent traffic in the last 24 hours.  
-Earning Members - The total number of members that have ever sent traffic to your ad network.  
-Total Members - The total amount of members that have created an account in your network at any time.  
-Pending Payments - The total amount of payments you need to send out.  Will show $0.00 except on pay day.
+- <b>Active Members -</b> The number of members that have either signed up or sent traffic in the last 24 hours.  
+- <b>Earning Members -</b> The total number of members that have ever sent traffic to your ad network.  
+- <b>Total Members -</b> The total amount of members that have created an account in your network at any time.  
+- <b>Pending Payments -</b> The total amount of payments you need to send out.  Will show $0.00 except on pay day.
 
-Daily Traffic - The total amount of visitors that have been purchased today (today - not the past 24 hours).  
-- Daily Profit - The total amount of profit you, as the network owner, have earned today (today - not the past 24 hours).  
-Daily Revenue - The total amount of revenue earned by your network today (today - not the past 24 hours).  
-Daily CPM Rate - The network's overall CPM rate for today (today - not the past 24 hours).  
+- <b>Daily Traffic -</b> The total amount of visitors that have been purchased today (today - not the past 24 hours).  
+- <b>Daily Profit -</b> The total amount of profit you, as the network owner, have earned today (today - not the past 24 hours).  
+- <b>Daily Revenue -</b> The total amount of revenue earned by your network today (today - not the past 24 hours).  
+- <b>Daily CPM Rate -</b> The network's overall CPM rate for today (today - not the past 24 hours).  
 
-Total Traffic - The total amount of visitors that have been purchased in the lifetime of your network.  
-Total Profit - The total amount of profit you have earned in the lifetime of your network.  
-Total Revenue - The total amount of revenue earned in the lifetime of your network.  
-Total CPM Rate - The network's overall CPM rate in the lifetime of your network.  
+- <b>Total Traffic -</b> The total amount of visitors that have been purchased in the lifetime of your network.  
+- <b>Total Profit -</b> The total amount of profit you have earned in the lifetime of your network.  
+- <b>Total Revenue -</b> The total amount of revenue earned in the lifetime of your network.  
+- <b>Total CPM Rate -</b> The network's overall CPM rate in the lifetime of your network.  
 
 <b>Member's List Section</b>
 
@@ -260,14 +260,14 @@ This section lists all of your members that have ever earned money.  This list o
 
 Here's a breakdown of each column in this table:
 
-ID - 
-Email - 
-Traffic - 
-CPM Rate - 
-Revenue - 
-Earnings - 
-Profit - 
-Activity - 
+- <b>ID -</b> 
+- <b>Email - </b> 
+- <b>Traffic - </b> 
+- <b>CPM Rate - </b> 
+- <b>Revenue - </b> 
+- <b>Earnings - </b> 
+- <b>Profit - </b> 
+- <b>Activity - </b> 
 
 <b>Daily Stats Section</b>
 
