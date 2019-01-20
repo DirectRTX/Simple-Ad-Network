@@ -245,7 +245,7 @@ Total Members - The total amount of members that have created an account in your
 Pending Payments - The total amount of payments you need to send out.  Will show $0.00 except on pay day.
 
 Daily Traffic - The total amount of visitors that have been purchased today (today - not the past 24 hours).  
-Daily Profit - The total amount of profit you, as the network owner, have earned today (today - not the past 24 hours).  
+- Daily Profit - The total amount of profit you, as the network owner, have earned today (today - not the past 24 hours).  
 Daily Revenue - The total amount of revenue earned by your network today (today - not the past 24 hours).  
 Daily CPM Rate - The network's overall CPM rate for today (today - not the past 24 hours).  
 
@@ -256,7 +256,18 @@ Total CPM Rate - The network's overall CPM rate in the lifetime of your network.
 
 <b>Member's List Section</b>
 
-This section lists all of your members that have ever earned money.  We do not list any members that just signed up and never sent any traffic or earned any money.  There's a lot of members that signup and never do anything.
+This section lists all of your members that have ever earned money.  This list only contains a list of members that have sent traffic to your network.  There's a lot of members that signup and never do anything.
+
+Here's a breakdown of each column in this table:
+
+ID - 
+Email - 
+Traffic - 
+CPM Rate - 
+Revenue - 
+Earnings - 
+Profit - 
+Activity - 
 
 <b>Daily Stats Section</b>
 
