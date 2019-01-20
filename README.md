@@ -219,15 +219,9 @@ In the sections below, we're going to teach you about the Member's Area that pub
 
 ## Notes About The Member's Area
 
-The Member's Area is pretty self-explanatory.  You can create a test account to login and play around in it.  The only thing that the Member's Area is missing (that most ad networks have) is a count of the amount of traffic that publisher's have sent.  It shows how much they've earned, but not the amount of traffic they've sent.
+The Member's Area is pretty self-explanatory.  You can create a test account to login and play around in it.  
 
-This was done intentionally.  The lack of traffic stats is one of the reasons your network will be able to handle an unlimited amount of traffic.  However, this shouldn't affect publishers very much for two reasons:
-
-1.  They can send traffic to a Bit.ly and have it forwarded to your ad network's traffic link.  This will give them the ability to track how much traffic they've sent, if it's important to them.  Most of them just care about their earnings.
-
-2.  They can use a Fallback URL. So it doesn't really matter how much traffic you've purchased from them.  If they use a Fallback URL, they know that they aren't losing any traffic.
-
-While this isn't the perfect solutions, many publishers won't care.  You'll continuously have ones that email asking about traffic stats, but we actually cover this in the support area of the Member's Area.  So, if traffic counts are something that's really important to them, they'll just use something like Bit.ly to track that traffic.
+You'll find that it contains almost all of the same features as DirectRTX.  The only features it doesn't have is the ability to use SubIDs or ClickIDs - but that's okay.  Most publishers don't use those features, they are primarily used by ad networks.
 
 ## How To Use The Admin Dashboard
 
