@@ -264,12 +264,12 @@ Here's a breakdown of each column in this table:
 
 - <b>ID -</b> The publisher's ID number in the database - also, used in their direct link.
 - <b>Email -</b> The publisher's login email address - this may be different than their payment email.
-- <b>Traffic -</b> 
-- <b>CPM Rate -</b> 
+- <b>Traffic -</b> The amount of traffic that's been purchased from this publisher.
+- <b>CPM Rate -</b> The average CPM rate we're purchasing traffic from this publisher at.
 - <b>Revenue -</b> 
 - <b>Earnings -</b> 
 - <b>Profit -</b> 
-- <b>Activity -</b> 
+- <b>Activity -</b> This is the last time we notified your network that traffic has been purchased from this publisher.
 
 <b>Daily Stats Section</b>
 
