@@ -26,7 +26,7 @@ Oh, and at the end of this, we're even going to teach you how to promote the net
 Please make sure you have the following things before you get started:
 
 1.  A domain name.  We recommend using <a target="_blank" href="https://www.namesilo.com">NameSilo</a>.
-2.  A web hosting account.  We recommend <a target="_blank" href="https://www.stablehost.com">StableHost</a>.
+2.  A web hosting account.  We recommend <a target="_blank" href="https://www.namecheap.com/hosting/shared/">NameCheap</a>.
 3.  An account at <a target="_blank" href="https://directrtx.com">DirectRTX</a>.  Instantly approved.
 4.  A free account at <a target="_blank" href="https://www.cloudflare.com">CloudFlare</a>.  No upgrades needed.
 5.  A <a target="_blank" href="https://www.paypal.com/">PayPal</a> account.  Used for payments from DirectRTX.
